@@ -21,7 +21,7 @@ export const SITE = {
     { label: "Scooter theorie", href: "/scooter-theorie/" },
     { label: "CBR slagingspercentage", href: "/cbr-slagingspercentage/" },
     { label: "Motor theorie", href: "/motor-theorie/" },
-    { label: "Gevaarherkenning oefenen", href: "/gevaarherkenning-oefenen/" },
-    { label: "Theorie-examen tips", href: "/theorie-examen-tips/" },
+    { label: "Gevaarherkenning", href: "/gevaarherkenning/" },
+    { label: "Herexamen CBR", href: "/herexamen-cbr/" },
   ],
 };
