@@ -1,40 +1,48 @@
 ---
-title: "Verkeersregelaar | Alle Regels Omtrent Verkeersregelaar! Tips & Info"
+title: "Verkeersregelaar"
 slug: "verkeersregelaar"
-metaTitle: "Verkeersregelaar | Alle Regels Omtrent Verkeersregelaar"
-metaDescription: "Meer weten over de verkeersregelaar in het verkeer? Lees hier alles over het worden van een verkeersregelaar en de regels omtrent deze functie."
-sourceUrl: "https://autotheorieoefenen.com/verkeersregelaar"
+metaTitle: "Verkeersregelaar | Houdingen uitgelegd"
+metaDescription: "Ben jij bekend met het gezag van een verkeersregelaar? Autotheorie.nl legt het uit✓ Zo weet jij wat de verschillende houdingen betekenen✓"
 ---
 
+Tijdens het auto theorie examen en tijdens het praktijk examen kun je te maken krijgen met verkeersregelaars. Een verkeersregelaar kun je makkelijk herkennen aan de verkeersregelaar kleding die ze wettelijk verplicht zijn om te dragen. Deze kenmerken zich door de fluorescerende kleuren en het retro-reflecterende materiaal, zodat ze ten alle tijde opvallen. Ontdek hier meer over de verkeersregelaar.
 
-Ben je eerder een verkeersregelaar tekens tegengekomen? Spannend werk lijkt het? Maar een verkeersregelaar worden is niet makkelijk. De opleiding verkeersregelaar moet je de juiste kennis hebben anders kun je een hele opstopping veroorzaken in het verkeer. Een verkeersregelaar is af en toe nodig vooral wanneer de verkeerslichten niet werken.
+## Wat is een verkeersregelaar?
 
-Hoe herken je een verkeersregelaar? Een verkeersregelaar draagt een gele jas. Maar de onderkant van zijn jas is oranje en hierop heb je een reflecterende driehoek.
+Een verkeersregelaar staat bekend onder meerdere namen. Misschien heb je wel eens gehoord van klaarover, verkeersagent, verkeersbrigadier, verkeersleider of vlaggenman. Dit zijn allemaal verkeersregelaars, soms elk met een eigen functie. Verkeersregelaars zijn mensen die in speciale gevallen zorgen voor een veilige verkeer doorstroom door middel van tekens of signalen zoals gebaren, borden of vlaggen.
 
-## Wanneer treed een verkeersregelaar op?
+De persoon die het verkeer leidt, is verantwoordelijk voor het handhaven van de veiligheid en efficiëntie van het verkeer. Evenals kunnen ze als taak hebben om de veiligheid van wegwerkers tijdens constructiewerkzaamheden aan de weg te waarborgen. De aanwijzingen van een verkeersregelaar gaan voor de bestaande aanwezige verkeerssymbolen zoals [borden](/verkeersborden-oefenen/) en [onderborden](/onderborden/).
 
-Een verkeersregelaar ontmoet je in het verkeer waar er werkzaamheden plaatsvinden. Deze kunnen zijn transporten, festivals en braderieen, [maar ook bijvoorbeeld een militaire colonne](/militaire-colonne/).
+## Soorten verkeersregelaars
 
-Er zijn twee soorten verkeersregelaars. Een is de beroepsverkeersregelaar en de ander een evenementenverkeersregelaar. Het verschil hiervan is dat de beroepsverkeersregelaar zelfstandig het verkeer mag regelen op verschillende locaties, hij is bevoegd ervoor en heeft de juiste opleiding gevolgd. Terwijl de evenementenverkeersregelaar de bezoekers wegwijs maken over het parkeren in festivals. De evenementenverkeersregelaar mag niet zelfstandig het verkeer regelen.
+Zoals hierboven al reeds benoemd, kunnen verkeersregelaars verschillende functies uitoefenen. Zo zijn er de beroepsverkeersregelaars die optreden tijdens tijdelijke verkeersmaatregelen. Dit wordt gedaan door personen van 18 jaar of ouder. Transportbegeleiders kunnen pas ingezet worden wanneer ze 24 jaar zijn en zorgen voor begeleiding van lange, hoge en brede transporten. Evenementen verkeersregelaars, vanaf 16, worden ingezet bij evenementen zoals festivals en ten slotte zorgen de verkeersbrigadiers voor oversteekhulp bij bijvoorbeeld scholen. Dit kan al vanaf 10 jaar en zijn vaak kinderen van de school waar ze het verkeer regelen. Dit gebeurt altijd onder toezicht.
 
-### Verkeersregelaar of politieagent
+## Signalen verkeersregelaar
 
-Een verkeersregelaar heeft niet dezelfde bevoegdheden als een politieagent. Maar als je een verkeersregelaar in het verkeer ziet dien je zijn aanwijzingen te volgen. Hij is bevoegd ervoor. Als je hem niet gehoorzaamt dan kan hij wel aangifte doen tegen jou.
+Tijdens het examen kun je verschillende vragen krijgen over situaties in het verkeer die geleid worden door een verkeersregelaar. Het is zaak dat je de tekens of signalen herkent, zodat je weet wat je moet doen. We behandelen er hier alvast drie.
 
-### Opleiding
+### Stopteken verkeersregelaar
 
-Wil je een verkeersregelaar worden? Een verkeersregelaars examen is mogelijk. Je kunt de beroepsverkeersregelaars opleiding volgen door een meerdaagse opleiding te volgen bestaande uit theorie en praktijklessen. Als je er klaar voor bent dan maak je een praktijkexamen onder toezicht van een politieagent.
+Het stopteken herken je wanneer de verkeersregelaar zijn of haar rechterhand omhoog houdt en de linkerhand naar jouw richting wijst. Je kijkt dus tegen de handpalm aan van de verkeersregelaar. In dit geval moet je ten alle tijden stoppen.
 
-Hoe geschiedt het in de praktijk? Je wordt gebracht naar een kruispunt en hier kun je bewijzen hoe je te werk gaat. Ben je geslaagd? Gefeliciteerd, je krijgt een getuigschrift met waarmerk van de politie. Hiermee ga je bij de gemeente of het ministerie van Infrastructuur en Milieu om je functie als verkeersregelaar aan te vragen. Wat de evenementenverkeersregelaar betreft leggen zij online een toets af. Een verkeersregelaar salaris is wel heel goed.
+### Oprijteken verkeersregelaar
 
-### Verkeersteken en verkeersregelaar
+Bij het oprijteken mag je de weg weer voortzetten. De verkeersregelaar wijst je dan aan met de rechterhand en trekt deze vervolgens naar zich toe. Vervolgens toont hij de richting aan waar jij naar toe kunt met de linkerhand. De verkeersregelaar zal plaats maken, zodat jij door kunt rijden.
 
-Als er verkeersborden aanwezig zijn ([oefen deze goed!](/verkeersborden-oefenen/)) en ook nog een verkeersregelaar dan dien je de aanwijzingen van de verkeersregelaar te volgen.
+### Snelheid verminderen verkeersregelaar
 
-### Verkeersregelaars en verkeersbrigadiers
+Op dit moment wijst de verkeersregelaar je aan met de linkerhand en beweegt de rechterhand omhoog en omlaag. Nu moet je weten dat je snelheid moet verminderen. Deze verkeersregelaar tekens zijn standaard. Zorg ervoor dat je alle verkeersregelaar tekens kent!
 
-Je kunt je heel snel vergissen tussen een verkeersregelaar en verkeersbrigadier. Maar wat is het verschil eigenlijk? Een verkeersbrigadier staat vaker bij scholen, hun taak is om kinderen te helpen veilig over te steken. Een verkeersbrigadier mag alleen ter plekke zijn. Terwijl een verkeersregelaar wel op verschillende locaties het verkeer mag regelen.
+## Invullen op het examen.
 
-Als je het verschil nog makkelijker wilt onthouden kun je dat doen door middel van hun kleding. Hesje van een verkeersbrigadier is oranje en van een verkeersregelaar geel met oranje. Je kunt verkeersbrigadier worden vanaf 10 jaar terwijl je 18 moet zijn om beroepsverkeersregelaar te worden.
+Tijdens het auto theorie-examen kun je ook een vraag krijgen over een verkeersregelaar. Meestal is dat dan in de vorm van een afbeelding op bijvoorbeeld een kruispunt waar een verkeersregelaar een bepaald teken of signaal geeft waarna jij moet antwoorden wie er op dat moment [voorrang](/voorrangsregels/) heeft.
 
-Een verkeersregelaar is nodig in het verkeer. Vooral wanneer er geen verkeerslichten of [verkeersborden](/alle-verkeersborden/)aanwezig zijn of defect zijn. Als er in zo een situatie geen verkeersregelaar aanwezig is ontstaat er een chaos. Daarom moet er goed naar de instructies gevolgd worden. Kijk vooral goed naar de hand aanwijzingen van zo iemand. Want hij geeft je duidelijk aan waar je moet rijden.
+## Bonus tips voor auto theorie-examen oefenen
+
+Zojuist heb ik je uitgelegd hoe je je kunt voorbereiden op de vragen omtrent verkeersregelaar tijdens het examen. Maar naast dit onderwerp, worden er vele andere onderwerpen behandelt. Daarnaast zijn er ook slimme manieren om je voor te bereiden op het examen. Een aantal tips die ik met je mee wil geven zijn:
+
+- Blijf jezelf ontspannen, neem pauze van 10 minuten na elk uurtje
+- Eet goed en gezond, verwaarloos je maag helemaal niet want de energie heb je hard nodig.
+- Zorg ervoor dat je zoveel mogelijk scenario’s oefent zodat de vragen op de theorie-rijexamen herkenbaard zijn.
+- Rust goed uit voor het examen anders zal jij je suf voelen op het examen.
+- Maak zoveel mogelijk gebruik van proefexamens, het je helpen met onthouden en wie weet heb je geluk en komen enkele vragen terug.

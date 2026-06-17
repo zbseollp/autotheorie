@@ -1,46 +1,26 @@
 ---
-title: "Wat zijn de Voorrangsregels voor Voetgangers? Ontdek het hier!"
+title: "Wanneer hebben voetgangers voorrang"
 slug: "wanneer-hebben-voetgangers-voorrang"
-metaTitle: "Wat zijn de Voorrangsregels voor Voetgangers? Ontdek het hier!"
-metaDescription: "Ontdek de Regels: Wanneer Hebben Voetgangers Voorrang? Lees Onze Complete Gids met Informatie en Tips voor Meer Begrip"
-sourceUrl: "https://autotheorieoefenen.com/wanneer-hebben-voetgangers-voorrang"
+metaTitle: "Wanneer hebben voetgangers voorrang? Je leest het hier"
+metaDescription: "Wanneer hebben voetgangers voorrang in het verkeer? Via AutoTheorie.nl weet jij precies wanneer je voetgangers voor moet laten gaan."
 ---
 
-In het verkeer hebben bestuurders vaak voorrang, maar er zijn duidelijke situaties waarin voetgangers juist voorgaan. Het is belangrijk om die situaties te kennen — niet alleen voor je [theorie-examen](/verkeersborden-oefenen/), maar vooral voor de veiligheid van de meest kwetsbare verkeersdeelnemers. Hieronder vind je een compleet overzicht van de [voorrangsregels](/voorrangsregels/) voor voetgangers.
+Voetgangers in het verkeer zijn een speciaal geval waar extra op gelet dient te worden. Ze hebben niet altijd dezelfde verkeersregels en je kunt er niet vanuit gaan dat ze verkeersregels voor auto’s kennen. Daarnaast zijn ze uiterst kwetsbaar. Zaak dus dat je weet wanneer voetgangers voorrang hebben.
 
-## Wat is een voetganger?
+## Wanneer heeft een voetganger voorrang
 
-Een voetganger is iemand die zich te voet voortbeweegt. Maar het begrip is breder dan je denkt: ook iemand die een [fiets](/fietspad-bord/), bromfiets of ander voertuig aan de hand meeloopt, geldt als voetganger. Hetzelfde geldt voor mensen op rolschaatsen, een skateboard of een step. Voetgangers moeten zich aan de verkeersregels houden en gebruikmaken van het trottoir, voetpad of de berm als die aanwezig zijn.
+Dus je bent aan het leren voor je [autotheorie](/) om je auto rijbewijs te halen. Tijdens het examen krijg jij gegarandeerd een vraag over wanneer voetgangers voorrang hebben. Wanneer hebben voetgangers voorrang en wat voor vragen kun je op het examen verwachten.
 
-## Wanneer hebben voetgangers voorrang?
+Op deze pagina leggen wij je alles uit wat je moet weten over wanneer voetgangers voorrang hebben. Het is helemaal niet moeilijk als je dit artikel leest en onze instructies volgt. Je kunt altijd jouw vrienden en familie raadplegen, maar niet iedereen zal de tijd hebben. Vandaar dat we hier alles hebben geplaatst voor jou.
 
-Er zijn een paar kernsituaties die je voor het examen uit je hoofd moet kennen:
+## Voorrangsregels voetgangers
 
-- **Op een zebrapad (voetgangersoversteekplaats):** voetgangers die oversteken of duidelijk aangeven te willen oversteken, hebben altijd voorrang. Je moet als bestuurder stoppen en hen laten passeren.
-- **Rechtdoorgaande voetgangers:** een voetganger die rechtdoor langs dezelfde weg loopt, heeft voorrang op bestuurders die afslaan. Sla je bijvoorbeeld een zijstraat in, dan moet je wachten op de overstekende voetgangers.
-- **Bij uitritten en inritten:** rij je een uitrit in of uit, dan voer je een [bijzondere verrichting](/voorrangsregels/) uit. Voetgangers (en al het andere verkeer) hebben dan voorrang.
-- **Voetgangers met een blindengeleidehond of witte stok:** geef hen altijd extra ruimte en gelegenheid om over te steken.
+Wij zijn allemaal voetgangers zolang we ons zonder voertuig moeten verplaatsen. Voor voetgangers zijn er speciale paden aangelegd waar ze gebruik van kunnen maken zoals op het trottoir of een voetgangerspad. Zijn deze niet aanwezig, dan mogen voetgangers in de berm lopen. Mocht die er ook niet zijn, dan mogen voetgangers zich op de weg verplaatsen, weliswaar aan een van de uiterste zijden, zodat ze het verkeer niet belemmeren.
 
-## Wanneer hebben voetgangers géén voorrang?
+Voetgangers hebben voorrang als er een zebrapad aanwezig is of andere oversteek hulpmiddelen zoals verkeerslichten of speciaal aangelegde [verkeersborden](/verkeersborden-oefenen/) zoals voetgangers borden. Ook in omgevingen binnen drukke gebieden waar scholen of winkelcentra gevestigd zijn, hebben voetgangers voorrang. Verder kan het zijn dat schoolbussen gebruik maken van licht signalen om je te waarschuwen dat er schoolkinderen gaan oversteken. Meestal is er dan ook een [verkeersregelaar](/verkeersregelaar/) aanwezig die je moet opvolgen.
 
-Voetgangers hebben niet overal voorrang. Steken ze de weg over buiten een zebrapad, dan moeten zij juist het rijdende verkeer voor laten gaan. Ook bij een verkeerslicht geldt: rood is rood, ook voor voetgangers. Toch blijft als bestuurder de zorgvuldigheidsplicht gelden — je mag een voetganger nooit bewust in gevaar brengen, ook al heeft die formeel geen voorrang.
+## Invullen op het examen.
 
-## Waar moeten voetgangers lopen?
+Ik hoop dat door dit artikel volledig duidelijk is geworden wanneer voetgangers voorrang hebben. Ook hoop ik dat je goed voorbereid bent voor het theorie-examen en alle [voorrangsregels](/voorrangsregels/) kent.
 
-Voetgangers horen in de eerste plaats op het trottoir of voetpad. Is dat er niet, dan mogen ze het fiets- of bromfietspad gebruiken. Ontbreekt ook dat, dan lopen ze in de berm of aan de uiterste zijkant van de rijbaan, zo veel mogelijk weg van het verkeer. Buiten de bebouwde kom lopen voetgangers bij voorkeur aan de linkerkant, zodat ze het tegemoetkomende verkeer kunnen zien aankomen.
-
-## Waarom deze regels zo belangrijk zijn
-
-Voetgangers zijn onbeschermd: bij een aanrijding lopen zij vrijwel altijd het ernstigste letsel op. Een bestuurder die een voetganger op een zebrapad geen voorrang verleent, riskeert niet alleen een boete maar in het ergste geval een aanrijding met blijvend letsel. Daarom toetst het CBR deze situaties streng en hoort verkeersinzicht rond voetgangers bij goede [gevaarherkenning](/gevaarherkenning-oefenen/).
-
-## Veelgestelde vragen
-
-**Hebben voetgangers altijd voorrang op een zebrapad?**
-Ja. Voetgangers die oversteken of duidelijk aangeven te willen oversteken op een zebrapad, hebben altijd voorrang. Je moet als bestuurder stoppen en hen laten passeren.
-
-**Heeft een voetganger voorrang als hij buiten een zebrapad oversteekt?**
-Nee. Steekt een voetganger over op een plek zonder zebrapad, dan moet hij juist het rijdende verkeer voor laten gaan. Als bestuurder houd je wel altijd je zorgvuldigheidsplicht: je mag een voetganger nooit bewust in gevaar brengen.
-
-## Oefen voorrangssituaties
-
-Wil je de voorrangsregels voor voetgangers, fietsers en ander verkeer goed onder de knie krijgen? Oefen dan gratis met onze [verkeersbordenquiz](/verkeersborden-oefenen/) en verdiep je in alle [voorrangsregels](/voorrangsregels/). Zo zit je straks vol vertrouwen in de examenzaal.
+Lees het artikel rustig een aantal keren door zodat je het goed kunt onthouden. Op deze manier vergroot jij je slagingskans voor het auto theorie-examen.

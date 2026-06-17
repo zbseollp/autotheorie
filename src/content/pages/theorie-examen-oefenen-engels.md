@@ -1,25 +1,30 @@
 ---
-title: "Theorie examen oefenen Engels | Wat Moet je Weten? Regels & Informatie"
+title: "Theorie-examen oefenen Engels"
 slug: "theorie-examen-oefenen-engels"
-metaTitle: "Theorie examen oefenen Engels | Wat Moet je Weten? Regels"
-metaDescription: "Meer weten over theorie examen oefenen Engels? Lees dan snel verder, wij voorzien je van alle benodigde informatie."
-sourceUrl: "https://autotheorieoefenen.com/theorie-examen-oefenen-engels"
+metaTitle: "Theorie examen oefenen Engels | Op maat gemaakt"
+metaDescription: "Theorie-examen in het Engels afleggen? Dat kan! Lees hier alles wat je moet weten over Theorie examen oefenen Engels via Autotheorie.nl."
 ---
 
+Weet jij al over Theorie-examen oefenen Engels ? En nog belangrijker: Wat voor een vragen kun jij op het auto rij examen verwachten over dit onderwerp? Op deze pagina leggen wij de complete theorie gratis voor je uit.
 
+## Theorie examen Engels oefenen
 
-Internationaal is Engels nog steeds de taal bij uitstek om tussen vreemden met elkaar te communiceren. Voor het scooter theorie examen hier ter lande, kan er daarom ook voor gekozen worden om alles in het Engels plaats te laten vinden. De vragen worden vertaald en is alles natuurlijk met dezelfde zorg als bij de Nederlandstalige uitvoering, samengesteld. Zo zijn de verkeersborden die wat je in Nederland tegenkomt, maar je [oefent de verkeersborden](/verkeersborden-oefenen/)  in het Engels.
+Ben je Engelstalig en heb je wat extra tijd nodig voor het afleggen van het [theorie-examen](/) in het Engels dan kun je daarvoor een tolk inschakelen. Zoals wij weten is het theorie-examen auto ook beschikbaar op schrift. Hiervoor heb je dus geen hulp nodig. Voor andere talen zoals bijvoorbeeld [Turks](/theorie-examen-oefenen-turks/) of [Arabisch](/theorie-examen-oefenen-arabisch/) is het ook mogelijk om een tolk in te schakelen. Het [theorie-examen brommer](/scooter-theorie/) en het [theorie-examen motor](/motor-theorie/) is niet beschikbaar in het engels, maar hier kan ook een tolk voor worden aangevraagd.
 
-Het gaat echter om meer dan het examen zelf. Die kan beschouwdt worden als sluitstuk van de vele inspanningen. Het is echter onder alle omstandigheden van groot belang om het beste beentje voort te zetten om gegarandeerd te zijn van succes.
+Je kunt binnenkort ook extra tijd krijgen bij theorie-examen dat in het Engels moet worden afgelegd. Dit is het geval wanneer men geen tolk inschakelt. Halverwege dit jaar zal dit een feit zijn volgens het CBR. Deze manier van theorie-examen is speciaal bedoeld voor personen die Engelstalig zijn of de Nederlandse taal niet voldoende beheersen. Zoals eerder is aangegeven is het dus mogelijk om het theorie-examen schriftelijk af te leggen in het Engels.
 
-## CBR Engels theorie examen
+## CBR theorie examen Engels
 
-Tijdens het aanvragen van je [auto theorie examen](/) kan daarbij gelijk de gewenste taal worden aangegeven. Dat kan uiteraard Nederlands zijn, maar ook Engels. Zo wordt het voor immigranten vooral mogelijk om zonder veel moeite over het Nederlands rijbewijs te kunnen beschikken. De keuze wordt gelaten aan de kandidaat om het examen af te leggen met of zonder tolk.
+De kandidaat dient voor het theorie-examen in het Engels dit aan te geven via het portaal van het CBR. Het theorie-examen kan worden afgelegd door de kandidaat bij het theoriecentrum zelf in Nederland.
 
-Wie theorie examen Engels oefenen voortvarend ter hand heeft genomen en er zeker van is, hoeft geen tolk in te schakelen. Het afleggen van het CBR theorie examen in het Engels kost wat meer. Indien er een tolk erbij komt, zal die apart door de examenkandidaat betaald dienen te worden. Het kan dus nooit kwaad om er zelf werk van te maken en kan dat door middel van rijbewijs theorie examen oefenen in Engels.
+Er moet wel rekening gehouden worden met de kosten. De kosten bij het Engels examen zijn niet hetzelfde als bij de Nederlandse taal. De kosten bij Engelstaligen ligt iets hoger dan bij de andere talen. Momenteel kost het theorie-examen in de Nederlandse taal 31,50 Euro.
 
-## Alles kan zelf ter hand worden genomen
+Het bedrag dat is vastgesteld bij het theorie-examen in het Engels is gelijk aan 37 euro. Er wordt gebruik gemaakt van de vaste onderdelen zoals bij een normaal theorie-examen.
 
-Het is niet nodig om dus fysiek naar een [autoles rijschool](/rijscholen-overzicht/) toe te gaan en kan alles online gebeuren, van het volgen van de lessen, tot aan het maken van het oefen examen. Deze mate van vrijheid biedt de mogelijkheid om de tijd zelf in te delen. Het volgen van tips welke online te vinden zijn, helpt altijd wel mee en kan er eventueel ook gekeken worden naar medestudenten om samen mee te oefenen. Door er samen tegenaan te gaan, zal het examen niet alleen met succes afgerond worden, maar kan het praktijkgedeelte snel een aanvang nemen. Let er wel op, dat er na behalen van het theorie examen, het resultaat 1,5 jaar geldig is.
+## Hoe zit het theorie examen Engels in elkaar
 
-Auto theorie in Engels is een stap waar er niet lang voor gewacht dient te worden en wordt er door het CBR de mogelijkheid geboden om er met of zonder tolk aan het examen deel te nemen. Omdat er veel aandacht besteedt is aan het samenstellen van de leerstof en het examen, ook in het Engels natuurlijk, zal het niet moeilijk zijn om succes te hebben en zal het rijbewijs niet lang op zich laten wachten.
+De kandidaat krijgt 25 vragen over gevaarherkenning en uit deze 25 vragen moeten ten minste 13 of meer goed zijn beantwoord. Ook vragen over verkeersregels en verkeersinzicht worden getoetst. Hier gaat het om 40 vragen waarvan er ten minste 35 of meer goed moeten worden beantwoord. Moet er meer tijd worden gegeven voor het theorie-examen dan is het voor kandidaten die moeite hebben met het lezen van vragen in het Nederlands of soms zelfs in het Engels. Volgens het CBR is het straks ook mogelijk om er 15 minuten bij te krijgen voor de verschillende onderdelen.
+
+Momenteel is het duidelijk dat het al mogelijk is het theorie-examen in het Engels te doen, dan wel met een tolk. Dat betekent dat de kandidaat geen extra tijd krijgt wanneer er gebruik wordt gemaakt van een tolk. Bij het kiezen van een tolk moet die aan bepaalde eisen voldoen. Deze kunnen teruggevonden worden in de regels van het CBR. Zorg ervoor dat de tolk erkend is via tolken.
+
+De kandidaat moet ook op de hoogte zijn dat het kiezen van een product niet gratis. Het is ook goed om op de hoogte te zijn dat de kosten voor het gebruik van een tolk niet wordt vergoed door het CBR. Deze kosten worden volledig gedekt door de kandidaat. Voor het inzetten van een tolk bedragen de kosten ongeveer €200. Dit ligt boven de prijs voor het afleggen van het theorie-examen door de kandidaat.

@@ -1,41 +1,40 @@
 ---
-title: "Internationaal Rijbewijs| Hoe Aanvragen ? Regels & Informatie"
+title: "Internationaal rijbewijs"
 slug: "internationaal-rijbewijs"
-metaTitle: "Internationaal Rijbewijs| Hoe Aanvragen ? Regels & Informatie"
-metaDescription: "Meer weten over hoe je een internationaal rijbewijs aanvragen kunt? Lees dan snel verder, wij voorzien je van alle benodigde informatie."
-sourceUrl: "https://autotheorieoefenen.com/internationaal-rijbewijs"
+metaTitle: "Internationaal rijbewijs | Zo vraag je dit aan"
+metaDescription: "Een internationaal rijbewijs heb je in veel gevallen nodig naast je Nederlandse rijbewijs om buiten de Europese Unie te rijden. Op deze manier vraag je het aan."
 ---
 
-Met het felbegeerd rijbewijs kan je nu eindelijk achter het stuur plaatsnemen en heb je ook nog het voordeel, dat het Nederlands rijbewijs geldig is in alle EU-landen. Je kan dus zonder je daarover zorgen te maken gewoon op reis naar zo een lidland en zorg je er natuurlijk wel voor, dat de overige zaken zoals de verzekering wel in orde zijn.
+Wanneer jij je [auto theorie](/) en je rijexamen haalt, krijg jij je rijbewijs. Hier heb je maanden naar toegewerkt. Nu wil je natuurlijk zo snel mogelijk overal naar toe rijden waar je maar wilt. Daarvoor heb je uiteraard een rijbewijs gehaald, anders kun je net zo goed de fiets pakken.
 
-De basis voor het internationaal rijbewijs vormt nog altijd het gewoon Nederlands rijbewijs en moet die altijd meegenomen worden als referentie.
+Dit is natuurlijk binnen Europa altijd mogelijk met het rijbewijs dat je normaal aanvraagt. Maar wil je buiten Europa reizen, dan heb je een internationaal rijbewijs nodig. Het is dan ook goed om te kijken wat dit rijbewijs precies inhoudt en hoe je het internationale rijbewijs aanvraagt.
 
-## Het internationaal rijbewijs aanvragen
+## Wat is een internationaal rijbewijs?
 
-Het klinkt wel deftig, het internationaal rijbewijs, maar hoef je er gelukkig geen aparte cursus voor te volgen. Het belangrijkste in deze is wel, dat zo een rijbewijs verstaanbaar zal zijn in het land buiten de EU welke je wenst te bezoeken.
+Een internationaal rijbewijs is een rijbewijs waarmee je in landen buiten Europa kunt laten zien welke voertuigen je mag besturen. Zo kan dit handig zijn als je aangehouden wordt door de politie in een ander land, maar ook voor het huren van een voertuig in een ander land heb je een internationaal rijbewijs nodig.
 
-Zo zal een engelse tekst er zeker voorkomen en moeten de persoonsgegevens wel kloppen. Reken er in de praktijk ook op, dat bij controle ook naar jouw paspoort gevraagt zal worden. Zo een internationaal rijbewijs is overigens geen vervanging van het originele en dien jij jouw Nederlands rijbewijs ook gewoon bij jou te hebben.
+Het internationale rijbewijs is dan ook een rijbewijs dat in meerdere talen uitlegt welke voertuigen je mag besturen. Zo weten de andere landen precies welke voertuigen je mag besturen. Je moet wel altijd je officiële rijbewijs bij je hebben, want dit geldt alleen als officieel document. Een internationaal rijbewijs is een toevoeging op het officiële rijbewijs.
 
-Bijzonder is de situatie wel voor zij die Suriname bezoeken omdat het Nederlands rijbewijs er daar voor een periode van twee weken gebruikt kan worden. Voor wie er langer zal vertoeven is er dan wel een internationaal rijbewijs nodig. Het is beter om voor de zekerheid toch zo een rijbewijs aan te vragen.
+## Waar heb je een internationaal rijbewijs nodig?
 
-## Aanvragen internationaal rijbewijs gaat eenvoudig
+Een internationaal rijbewijs aanvragen ga je niet doen als je gewoon boodschappen wilt gaan doen in Duitsland. Dat is nergens voor nodig. In landen binnen de EU heb je dan ook geen internationaal rijbewijs nodig. Daar kun je naar toe met je normale rijbewijs en hoef je geen extra rijbewijs voor te hebben.
 
-Omdat het internationaal rijbewijs nu eenmaal geen vervangend rijbewijs is, zal het aanvragen en afgeven snel zijn gedaan. Het is de ANWB die zich daarmee bezighoudt. Belangrijk zijn wel het meenemen van twee recente pasfotos en natuurlijk jouw Nederlands rijbewijs. Lang hoef je niet te wachten erop en is het alles binnen een dag geregeld.
+Buiten de EU heb je hem vaak wel nodig. Een ANWB internationaal rijbewijs kun je opzoeken op de ANWB website. Hier kun je precies vinden wat voor een soort rijbewijs je nodig hebt in welk land. Zo weet je direct waar je aan toe bent.
 
-Het is ook goed om na te gaan welk type rijbewijs nodig is voor het land waar je naartoe zal reizen. In totaal zijn er 3 modellen verschilt hun geldigheidsduur. Het langst is model 1968 geldig met drie jaar. De overige twee (model 1949 en 1926) gelden beiden voor een jaar. De geldigheidsduur wordt weleens over het hoofd gezien, vooral bij personen die regelmatig reizen.
+## Internationaal rijbewijs aanvragen
 
-Maak er een gewoonte van om elke keer dat je op stap gaat, toch wel een kijkje te nemen op het rijbewijs. Het kan anders wel niet zo leuk zijn wanneer je een auto hebt gehuurd en het bedrijf weigert om over te gaan tot de afgifte vanwege een vervallen internationaal rijbewijs.
+Het aanvragen van een internationaal rijbewijs hoef je niet bij de gemeente te doen. Het werkt dus anders dan hoe het [rijbewijs aanvragen](/rijbewijs-aanvragen/) normaal werkt. Je kunt simpelweg naar de ANWB winkel toe gaan. Een ANWB internationaal rijbewijs is minimaal 1 jaar geldig, waardoor je voor langere tijd buiten Europa kunt rijden. Heb je het langer nodig? Dan kun je terecht bij de bepaalde instantie in het desbetreffende land.
 
-## Voordeel van een internationaal rijbewijs
+Het ANWB internationaal rijbewijs online aanvragen, kan niet. Je moet hiervoor naar de ANWB winkel toe met geldige pasfoto’s en je rijbewijs. In de winkel kun je kiezen welk model je nodig hebt. Er zijn namelijk drie verschillende modellen waar je uit kunt kiezen:
 
-Wie in het buitenland een auto gaat huren, zal naast betalen met een creditcard, ook een internationaal rijbewijs moeten overleggen. Zo zorgt de verhuurmaatschappij voor wat extra garantie en is dit zeker ook naar de verhuurder toe. Er kunnen door zo een verhuurder altijd eisen op tafel worden gezet wat betreft de minimum of zelfs maximum leeftijd van de huurder.
+Model 1968 – drie jaar geldig
 
-Het is ook mogelijk om een internationaal rijbewijs aan te vragen online en zijn er wat aanbieders waar je de pasfotos naar moet sturen. De kosten zijn wel wat hoger omdat de verzendkosten van de stukken erbij komen. Wie echter rechtstreeks stapt naar de ANWB, zal ook gelijk geholpen kunnen worden.
+Model 1949 – een jaar geldig
 
-Ideaal voor zij die toch wel op het laatste moment zo een rijbewijs willen aanvragen. Ook wanneer je er achter komt dat het vorig rijbewijs vervallen is, kan er binnen een dag een ander worden gemaakt.
+Model 1926 – een jaar geldig
 
-## Internationaal rijbewijs in het buitenland
+In de ANWB winkel zullen ze je precies uitleggen welke je nodig hebt en wat de beste opties zijn.
 
-Een internationaal rijbewijs dien je dus altijd op zak te hebben wanneer je van plan bent naar het buitenland te vertrekken en daar zelf een auto te besturen. Voordat je naar de ANWB stapt om zo een rijbewijs te vervaardigen, zal je wel moeten nagaan welk type vereist is in het land waar je naartoe reist. Voor de aanvraag is er wel een geldig Nederlands rijbewijs nodig.
+## De kosten internationaal rijbewijs
 
-Indien het rijbewijs zal komen te vervallen wanneer jij je in het buitenland bevindt, zal dat automatisch ook gelden voor het internationaal rijbewijs. Het internationaal rijbewijs is namelijk geen vervangend rijbewijs, maar gewoon een vertaling in een aantal talen zodat het voor de autoriteiten in het buitenland duidelijk is.
+Voordat je een internationaal rijbewijs aanvraagt, wil je natuurlijk weten wat je dit ongeveer gaat kosten. Omdat er verschillende keuzes zijn, kunnen de prijzen verschillen. De prijzen verschillen tussen de €18,95 tot €24,95 en het is goedkoper dan de normale [kosten](/wat-kost-een-rijbewijs/) van een rijbewijs. In de ANWB kunnen ze je uitleggen welke je nodig hebt. De kosten betaal je dus niet aan de gemeente. De kosten betaal je aan de ANWB winkel.

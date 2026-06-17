@@ -1,23 +1,20 @@
 ---
-title: "Afrijden CBR| Wat Moet je Weten? Regels & Informatie"
+title: "Afrijden CBR"
 slug: "afrijden-cbr"
-metaTitle: "Afrijden CBR| Wat Moet je Weten? Regels & Informatie"
-metaDescription: "Meer weten over de Afrijden CBR? Lees dan snel verder, wij voorzien je van alle benodigde informatie om je te helpen slagen."
-sourceUrl: "https://autotheorieoefenen.com/afrijden-cbr"
+metaTitle: "Afrijden CBR | Dit moet je weten"
+metaDescription: "Klaar om af te rijden bij het CBR? Lees dan snel verder, AutoTheorie.nl voorziet jouw van alle essentiële informatie die je nodig hebt om af te rijden."
 ---
 
-Een groot moment waar je zeker op zit te wachten, is het praktijkexamen. Na het behalen van de [auto theorie examen](/) en het praktijk examen kan je immers geheel zelfstandig deelnemen aan het verkeer. Wat geeft dat nu eens een apart gevoel. Met succes afronden van het examen vergt wel de nodige voorbereidingen en wel in de vorm van jouw inzet. Flink oefenen hoort daar ook bij thuis.
+De laatste stap richting het behalen van je rijbewijs, is het afrijden bij het CBR. Op dit moment heb jij je theorie-examen al gehaald en acht je rijinstructeur je met genoeg praktische in huis om het praktijkexamen met succes af te leggen.
 
-## Wees zeker van jezelf tijdens CBR afrijden
+## Afrijden CBR
 
-instructeur in de auto. Waar je doorgaans alle handelingen vlot kan verrichten, kan het tijdens het examen anders aanvoelen en heeft het ook te maken met wat faalangst. Om daar het hoofd aan te kunnen bieden wordt er voor het praktijkexamen auto CBR, de mogelijkheid geboden om een proefexamen te maken.
+Tijdens je [rijlessen](/rijlessen/) vraag je je misschien wel eens af of je al klaar bent om af te kunnen rijden. In principe ligt dit aan de progressie die je zelf maakt tijdens de rijlessen. Hoe sneller je dingen oppikt en je deze goed uitvoert tijdens je lessen, des te sneller je rijinstructeur je gaat vertellen dat je klaar bent voor de ultieme test. Twijfel je nog aan bepaalde dingen en wil je ze nog een keer oefenen? Maak dit dan bespreekbaar met je instructeur, zodat je alle kleine twijfels weg kunt nemen.
 
-Daar gaat alles er precies zo aan toe als bij het echte en is het zelfs mogelijk om voor bepaalde onderdelen op zo een wijze vrijstelling te krijgen. Het moet daarbij voor de instructeur wel duidelijk zijn dat jij je zelfverzekerd voelt achter het stuur. Dat kan jij op jouw beurt weer bewerkstelligen door niet alleen vaker te hebben geoefend, maar er ook gerust tegen aan te kijken. Er gaat niets mis zolang je de regels in gedachten haalt en naar de instructeur luistert. Starten en afrijden maar.
+## Wat is er nodig voor je bij het CBR afrijden kunt?
 
-## Oefen eerst voordat je aan het praktijk examen CBR begint
+Voordat je kunt gaan afrijden, moet je het  cbr theorie-examen al succesvol afgelegd hebben. Hierbij kunnen we je helpen door de uitgebreide [cursus](/) die je bij ons kunt volgen. De theorie cursus doe je idealiter voordat je begint met rijlessen of in het begin, zodat je makkelijk de connecties kunt leggen tussen de theorie en de praktijk.
 
-Voordat je een datum voor het praktijk examen CBR aanvraagt, zal er dus flink worden geoefend. De instructeur weet als geen ander wat je te wachten staat en zal de nodige tips meegeven. Dit is al een groot pluspunt en heeft elke rijschool er natuurlijk baat bij dat bij het CBR examen praktijk een hoog slagingspercentage wordt behaald.
+Om deel te kunnen nemen aan het rijexamen moet je gezond verklaard zijn om deel te kunnen nemen in het verkeer. Om deze reden moet je een gezondheidsverklaring opsturen naar het [CBR](/mijn-cbr/). Het is raadzaam dit in het begin van je opleiding gelijk te doen. In sommige gevallen is het zo dat je een medisch specialist erbij moet betrekken of zelfs een rijtest moe doen bij het CBR-kantoor.
 
-Nadat het examen is afgelegd krijg je meteen te horen wat de uitslag is en kun je zelfs meteen bij het Gemeentehuis langs voor de registratie. Indien alles vlot verloopt, is het mogelijk om op de dag van het examen na afloop, zelfstandig achter het stuur van de auto plaats te nemen. De aanvraag van een datum voor het examen kan overgelaten worden aan de rijschool, maar kan het ook zelf ter hand worden genomen wanneer je over een Digi-D account beschikt. Zorg er altijd wel voor, dat er voldoende geoefend is.
-
-Met de wijze waarop afrijden [CBR](/mijn-cbr/) in elkaar zit wordt de examenkandidaat gelijk gerust gesteld en moet dat ervoor zorgen, dat de slagingskansen omhoog gaan. Naast een identiteitsbewijs, is er ook een bewijs nodig van de bevestiging van de examendatum en wordt er een ogentest afgenomen.
+Zodra je deze zaken hebt voltooid, ben je klaar voor het CBR parktijkexamen. Je zal eerst je rijschool moeten machtigen voor het aanvragen van je praktijkexamen auto. Het aanvragen van het rijexamen zal door jouw rijschool worden gedaan. Samen met jou zal de rijinstructeur het juiste moment kiezen. Binnen 7 weken na de aanvraag probeert het CBR jou het examen te laten doen. Het herexamen, indien nodig, wordt binnen 5 weken afgenomen.

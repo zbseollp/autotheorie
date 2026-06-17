@@ -1,47 +1,26 @@
 ---
-title: "Afbuigende Voorrangsweg: Info die Elke Bestuurder Moet Weten"
+title: "Afbuigende voorrangsweg"
 slug: "afbuigende-voorrangsweg"
-metaTitle: "Afbuigende Voorrangsweg: Info die Elke Bestuurder Moet Weten"
-metaDescription: "Ontdek de Ins en Outs van de Afbuigende Voorrangsweg: Een Uitgebreide Gids met Alle Noodzakelijke Informatie voor Weggebruikers."
-sourceUrl: "https://autotheorieoefenen.com/afbuigende-voorrangsweg"
+metaTitle: "Afbuigende voorrangsweg | Zo handel je correct"
+metaDescription: "Een afbuigende voorrangsweg is net weer even anders dan een gewone voorrangsweg. Waar moet je op letten? Je leert het hier bij AutoTheorie.nl"
 ---
 
-Een afbuigende voorrangsweg is een bijzondere situatie waar de voorrangsweg op een [kruispunt](/gelijkwaardig-kruispunt/) niet rechtdoor loopt, maar naar links of rechts afbuigt. Voor veel kandidaten is dit een lastig onderwerp op het [theorie-examen](/verkeersborden-oefenen/), omdat je goed moet opletten wélke weg nu eigenlijk voorrang heeft. In deze gids leggen we uit hoe je een afbuigende voorrangsweg herkent en welke regels er gelden.
+Ben jij al bekend met de afbuigende voorrangsweg? En nog belangrijker: Wat voor vragen kun jij op het auto rijexamen verwachten over dit onderwerp? Op deze pagina leggen wij de complete theorie gratis voor je uit.
 
-## Wat is een afbuigende voorrangsweg?
+## Regels omtrent afbuigende voorrangsweg
 
-Een weg die voorrang heeft op een kruispunt en daar afbuigt in plaats van rechtdoor te gaan, noemen we een afbuigende voorrangsweg. Normaal gesproken denk je bij een voorrangsweg aan een rechte doorgaande weg. Maar soms maakt die voorrangsweg op het kruispunt een bocht. Het verkeer dat de bocht volgt, blijft op de voorrangsweg; het verkeer dat rechtdoor gaat, verlaat de voorrangsweg en moet juist voorrang verlenen.
+Als je dagelijks gebruik maakt van de weg is het belangrijk te weten wat een afbuigende voorrangsweg is. Deze weg is een voorrangsweg die op een kruispunt niet rechtdoor loopt maar juist afbuigt. Dit is duidelijk te merken aan de voorrangsweg borden die je zal tegenkomen op zo een weg. Op de onderborden kun je zien welke kant de voorrangsweg afbuigt. Dit kan naar links of naar rechts zijn.
 
-## Herkennen van een afbuigende voorrangsweg
+Je hebt voorrang wanneer je op een afbuigende weg rijdt en je op de voorrangsweg blijft. Door de dikke strepen op het onderbord wordt de voorrangsweg aangegeven. De dunne strepen duiden de zijstraten aan. Je krijgt voorrang van alle bestuurders die van de zijstraten komen.
 
-Je herkent de situatie aan het [voorrangsbord](/verkeersborden-voorrang/) (bord B1, het gele ruitvormige bord of het rode-driehoek-voorrangskruispuntbord) in combinatie met een **onderbord**. Op dat [onderbord](/onderborden/) staat een dikke streep die het verloop van de voorrangsweg weergeeft — en die dikke streep maakt een bocht. De dunne lijn op het onderbord stelt de ondergeschikte weg voor. Door de tekening op het onderbord goed te bekijken, zie je precies welke kant de voorrang op gaat.
+Bij het afbuigen is het belangrijk om je richtingaanwijzer aan te laten, zodat het verkeer kan zien waar je naar toe gaat. Bestuurders die dan de voorrangsweg blijven volgen op de afbuigende voorrangsweg hebben voorrang. Elke afbuigende weg kun je zien als een weg om af te slaan. De voorrangsregels blijven ongewijzigd. Je mag dan ongehinderd jouw weg vervolgen. Alle bestuurders die de voorrangsweg naderen, dienen jou niet te hinderen.
 
-Bij een **voorrangskruispunt** (rode driehoek met een brede en smalle balk) geeft de brede balk de voorrangsweg aan. Loopt die brede balk met een knik naar links of rechts, dan heb je te maken met een afbuigende voorrangsweg.
+## Verkeersbord voorrangsweg
 
-## De verkeersregels bij een afbuigende voorrangsweg
+De aanduiding voor het verkeersbord voor een afbuigende voorrangsweg is een rode driehoek. Op het bord is een zwarte pijl of een streep die naar links of rechts wijst aangegeven. Ook worden er meestal onderborden geplaatst, deze duiden aan naar welke kant de voorrangsweg afbuigt.
 
-De belangrijkste regel is eenvoudig: **het verkeer op de voorrangsweg houdt voorrang, ook in de bocht.** Dat betekent:
+Borden oefenen is dus ook weer een essentieel onderdeel voor het rijden op een afbuigende voorrangsweg.Als je op de afbuigende voorrangsweg rijdt, krijg je namelijk te maken met tal van borden zoals B1, B3, B4 of B5 met het vierkante onderbord. Wanneer je een voorrangsweg nadert, merk je dit aan bord B6 of B7 met het vierkante onderbord.
 
-- Rijd je zelf op de voorrangsweg en volg je de afbuiging, dan houd je voorrang op het verkeer dat de voorrangsweg verlaat of nadert.
-- Verlaat je de voorrangsweg (bijvoorbeeld door rechtdoor te gaan terwijl de voorrangsweg afbuigt), dan moet je voorrang geven aan het verkeer dat de bocht volgt.
-- Bestuurders die het kruispunt naderen vanaf de ondergeschikte weg, verlenen altijd voorrang aan het verkeer op de voorrangsweg.
+Om voldoende kennis over voorrangsborden op te doen is [online verkeersborden oefenen](/verkeersborden-oefenen/) een goede oefening. Voldoende kennis over verkeersborden is van groot belang om te kunnen slagen voor het theorie-examen en komt dus ook terug in onze [cursus](/).
 
-## Gebruik altijd je richtingaanwijzer
-
-Hoewel je op de voorrangsweg rijdt, ben je verplicht om met je richtingaanwijzer aan te geven welke kant je op gaat als je van richting verandert. Andere weggebruikers kunnen dan inschatten wat je gaat doen. Juist op een afbuigende voorrangsweg, waar de wegindeling verwarrend kan zijn, voorkomt dit misverstanden en ongelukken.
-
-## Veelgemaakte fouten
-
-De grootste fout is denken dat "rechtdoor altijd voorrang heeft". Op een afbuigende voorrangsweg klopt dat niet: het gaat erom of je op de voorrangsweg blijft, niet om de richting waarin je rijdt. Wie blind rechtdoor rijdt zonder het onderbord te lezen, geeft op het examen het verkeerde antwoord — en in de praktijk een gevaarlijke situatie.
-
-## Veelgestelde vragen
-
-**Heeft rechtdoorgaand verkeer voorrang op een afbuigende voorrangsweg?**
-Nee. Het draait niet om de richting, maar om de vraag of je op de voorrangsweg blijft. Wie de afbuiging volgt, blijft op de voorrangsweg en houdt voorrang; wie rechtdoor gaat en daarmee de voorrangsweg verlaat, moet juist voorrang geven.
-
-**Hoe zie je welke kant de voorrang opgaat?**
-Aan het onderbord onder het voorrangsbord. Daarop staat een dikke streep die het verloop van de voorrangsweg weergeeft. Maakt die dikke streep een bocht, dan buigt de voorrangsweg af.
-
-## Oefen voorrangssituaties
-
-Voorrang is een van de belangrijkste en lastigste onderdelen van het theorie-examen. Oefen daarom alle [voorrangsregels](/voorrangsregels/) en leer de bijbehorende borden herkennen met onze gratis [verkeersbordenquiz](/verkeersborden-oefenen/). Bekijk ook ons [overzicht van alle verkeersborden](/alle-verkeersborden/) om de voorrangsborden goed in je hoofd te prenten.
+Lees ook: [Voorrangsregels](/voorrangsregels/)

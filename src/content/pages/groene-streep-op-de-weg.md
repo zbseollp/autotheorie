@@ -1,45 +1,24 @@
 ---
-title: "De Betekenis van de Groene Streep op de Weg"
+title: "groene streep op de weg"
 slug: "groene-streep-op-de-weg"
-metaTitle: "De Betekenis van de Groene Streep op de Weg"
-metaDescription: "Verdiep Je Kennis over de Groene Streep op de Weg: Ontdek Belangrijke Regels en Informatie in Ons Uitgebreide Artikel."
-sourceUrl: "https://autotheorieoefenen.com/groene-streep-op-de-weg"
+metaTitle: "Groene streep op de weg | Helder uitgelegd"
+metaDescription: "Wat betekenen de groene strepen op de weg? Bij AutoTheorie.nl leer jij precies wat deze betekenen en ken jij de regels waar je aan dient te houden."
 ---
 
-Misschien heb je je weleens afgevraagd wat een groene streep of groene markering op de weg betekent. Het is een veelgestelde vraag, en het antwoord is genuanceerder dan veel mensen denken. In dit artikel leggen we uit wat groene markeringen wél en niet betekenen, en — belangrijker voor je [theorie-examen](/verkeersborden-oefenen/) — wat de officiële belijning op de weg je vertelt.
+Ben jij bekend met de groene streep op de weg? En nog belangrijker: Wat voor een vragen kun jij op het auto rij examen verwachten over dit onderwerp? Op deze pagina leggen wij de complete theorie gratis voor je uit.
 
-## Is een groene streep een officieel verkeersteken?
+## Strepen op de weg betekenis
 
-Nee. De officiële wegmarkering in Nederland is **wit**. Een groene streep of groene strook is géén officieel verkeersteken met een vaste betekenis uit het Reglement Verkeersregels en Verkeerstekens (RVV). Waar je groen op het wegdek tegenkomt, gaat het bijna altijd om een **fietsstrook** (groen of roodbruin asfalt om fietsers beter zichtbaar te maken) of om een experimentele markering die wegbeheerders gebruiken om bestuurders rustiger te laten rijden. De kleur op zich verandert de verkeersregels niet — het zijn de [verkeersborden](/alle-verkeersborden/) en de witte belijning die bepalen wat is toegestaan.
+Er zijn verschillende strepen op de weg te vinden met allemaal een eigen betekenis. Een van deze strepen zijn de groene strepen op de weg. De vraag die hierbij komt kijken is “wat betekent de groene streep op de weg?” Nu we weten dat verkeersborden voor orde zorgen in het verkeer, en het om deze reden belangrijk is [om verkeersborden te oefenen](/verkeersborden-oefenen/), staan deze niet overal. Daarom zijn er in sommige gevallen ook strepen op de weg die helpen om het verkeer te ordenen. Door de strepen op de weg kunnen rijbanen en rijstroken verdeeld worden of kan er worden aangegeven wat de maximumsnelheid is.
 
-## Wat de witte strepen wél betekenen
+Kom je een groene streep op de weg tegen, dan geeft dat de maximumsnelheid van 100 kilometer per uur aan. Staat er een brede groene streep midden op de weg, maakt dat je extra alert voor gevaar van het inhalen. Zie je een groene streep op de weg met een onderbroken lijn, geeft dat aan dat je op die weg wel mag inhalen. Aan de strepen kun je ook zien hoe hard je mag rijden. Dit is een belangrijk onderdeel van zowel het [auto theorie examen](/) als het [motor theorie examen](/motor-theorie/).
 
-Voor het examen is het cruciaal dat je de officiële belijning kent. De witte strepen op de weg vertellen je namelijk precies wat mag en niet mag:
+## De snelheidsfactor
 
-- **Onderbroken streep (korte strepen met tussenruimte):** je mag deze overschrijden, bijvoorbeeld om in te halen of van rijstrook te wisselen, mits het veilig kan.
-- **Doorgetrokken streep:** deze mag je **niet** overschrijden of erop rijden. Een doorgetrokken streep in het midden van de weg betekent dus een inhaalverbod.
-- **Combinatie (doorgetrokken én onderbroken naast elkaar):** je mag de streep overschrijden vanaf de kant waar de onderbroken streep ligt; vanaf de kant van de doorgetrokken streep mag het niet.
+De groene kleur tussen de doorgetrokken strepen geeft aan welke snelheid je mag aanhouden op die weg. Zie je een dubbele doorgetrokken streep met een groen vlak er tussen, dan is de maximale snelheid op die weg 100 kilometer per uur. Je mag op deze weg niet inhalen als er een doorgetrokken lijn is. Inhalen is alleen mogelijk op plaatsen waar de witte strepen naast de groene strepen onderbroken zijn, de onderbroken strepen. De strepen die zijn aangegeven op de weg, veranderen niets aan de bestaande verkeersregels. Die blijven ongewijzigd. Ontbreken er strepen op de weg, dan is inhalen toegestaan. Verkeersborden gaan altijd voor de lijnen op de weg.
 
-## Inhalen en rijstrookgebruik
+## Waarom groene strepen
 
-Bij een doorgetrokken streep geldt een inhaalverbod: je mag de streep niet overschrijden om een ander voertuig te passeren. Dit verbod is er om frontale botsingen op hoge snelheid te voorkomen, want juist die ongelukken lopen vaak ernstig of dodelijk af. Bij een onderbroken streep mag inhalen wél, maar alleen als je het overzicht hebt en niemand in gevaar brengt. Goede [gevaarherkenning](/gevaarherkenning-oefenen/) helpt je inschatten of inhalen verstandig is.
+Eerder hebben we in het bovenstaande kunnen lezen dat een 100 km weg voorzien is van een groene middenstreep die is doorgetrokken met een kantstreep. Een 80 km weg heeft geen middenlijn en heeft hierbij ook onderbroken kantlijnen. Personen die kleurenblind zijn kunnen op zo een manier gemakkelijk de snelheidslimiet herkennen aan de kantstreep. Kortom, de kantstrepen zijn op een autoweg doorgetrokken. Dit in tegenstelling tot de kantstrepen die op een 80 km weg onderbroken zijn.
 
-## Markeringen op de snelweg
-
-Op de [snelweg](/snelweg-bord/) zie je extra belijning, zoals **verdrijvingsvlakken** (de blokvormige arceringen die je niet mag berijden) en de doorgetrokken streep langs de vluchtstrook. Houd er rekening mee dat de borden en de elektronische [matrixborden](/matrixborden/) boven de weg altijd vóór de markeringen gaan: wijst een bord een afwijkende maximumsnelheid aan, dan volg je het bord.
-
-## Pas je snelheid altijd aan de situatie aan
-
-Welke markering je ook ziet, de gulden regel blijft hetzelfde: pas je snelheid aan de omstandigheden aan. Bij nat wegdek, mist of druk verkeer rijd je rustiger dan de maximumsnelheid, omdat je [remweg](/remweg-berekenen/) dan langer is. Een streep of bord vertelt je wat mág, maar jij bepaalt zelf wat op dat moment veilig is.
-
-## Veelgestelde vragen
-
-**Is een groene streep een officieel verkeersteken?**
-Nee. De officiële wegmarkering in Nederland is wit. Groen heeft geen vaste betekenis in het RVV en duidt meestal op een fietsstrook of een experimentele markering.
-
-**Wat betekent een doorgetrokken streep op de weg?**
-Die mag je niet overschrijden of erop rijden. Een doorgetrokken streep in het midden van de weg betekent dus een inhaalverbod. Een onderbroken streep mag je wél overschrijden als het veilig kan.
-
-## Oefen de wegmarkeringen
-
-Belijning en wegmarkeringen zijn een vast en lastig onderdeel van het theorie-examen. Wil je leren wat elke streep betekent? Oefen dan gratis met onze [verkeersbordenquiz](/verkeersborden-oefenen/) en bekijk het [overzicht van alle verkeersborden](/alle-verkeersborden/). Zo lees je straks elke streep op de weg feilloos.
+Gekleurde stroken worden in het verkeer voor meer doeleinden gebruikt. Er moet gelet worden op de extra groene strook, die voor snelle rijders op het fietspad bestemd is. Te denken aan e-bikers en wielrenners. Deze groep gaat meestal te snel op het fietspad, maar te langzaam en kwetsbaar op de autoweg. Door de groene streep in het midden, kan de rijder duidelijk zien waar hij moet rijden. Het geeft dus duidelijk aan dat je elkaar mag inhalen, maar op de juiste manier en op een veilige plek.

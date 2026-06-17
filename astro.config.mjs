@@ -20,7 +20,7 @@ function remarkStripLeadingImage() {
 }
 
 export default defineConfig({
-  site: "https://autotheorieoefenen.com",
+  site: "https://autotheorie.nl",
   output: "static",
   trailingSlash: "always",
   build: { format: "directory" },
@@ -34,4 +34,5 @@ export default defineConfig({
     compress({ CSS: true, HTML: true, Image: false, JavaScript: true, SVG: true }),
   ],
   vite: { plugins: [tailwindcss()] },
+  server: { port: 4323 },
 });

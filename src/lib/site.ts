@@ -1,20 +1,19 @@
 export const SITE = {
-  name: "Autotheorieoefenen",
-  domain: "autotheorieoefenen.com",
-  url: "https://autotheorieoefenen.com",
-  tagline: "Gratis je theorie-examen oefenen",
+  name: "Autotheorie",
+  domain: "autotheorie.nl",
+  url: "https://autotheorie.nl",
+  tagline: "De slimste route naar je rijbewijs",
   description:
-    "Oefen gratis voor je CBR theorie-examen: verkeersborden, voorrangsregels en meer. Wij helpen je slagen.",
+    "Gratis autotheorie leren voor je CBR-examen. Verkeersborden, voorrangsregels, gevaarherkenning en meer — direct online, zonder inschrijving.",
   locale: "nl_NL",
   nav: [
-    { label: "Auto theorie oefenen", href: "/" },
+    { label: "Theorie leren", href: "/" },
     { label: "Motor theorie", href: "/motor-theorie/" },
-    { label: "Verkeersborden", href: "/alle-verkeersborden/" },
-    { label: "Verkeersborden oefenen", href: "/verkeersborden-oefenen/" },
+    { label: "Alle verkeersborden", href: "/alle-verkeersborden/" },
+    { label: "Oefenquiz", href: "/verkeersborden-oefenen/" },
     { label: "Blog", href: "/blog/" },
     { label: "Contact", href: "/contact/" },
   ],
-  // Belangrijke pagina's (o.b.v. Ahrefs + zoekvolume) — site-breed gelinkt voor SEO
   popular: [
     { label: "Verkeersborden oefenen", href: "/verkeersborden-oefenen/" },
     { label: "Alle verkeersborden", href: "/alle-verkeersborden/" },

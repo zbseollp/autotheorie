@@ -1,49 +1,30 @@
 ---
-title: "Snelwegborden begrijpen: betekenis, regels en informatie"
+title: "Snelweg bord"
 slug: "snelweg-bord"
-metaTitle: "Snelwegborden | Betekenis & regels op de snelweg"
-metaDescription: "Wat betekenen de borden op de snelweg? Ontdek de belangrijkste snelwegborden, hun betekenis en de regels die erbij horen — handig voor je theorie-examen."
-sourceUrl: "https://autotheorieoefenen.com/snelweg-bord"
+metaTitle: "Snelwegbord | Alle snelwegborden uitgelegd"
+metaDescription: "Welke snelwegborden zijn er en wat zijn de betekenissen? Vind ze hier allemaal✓ Zo jij weet precies hoe jij je moet gedragen op de snelweg✓"
 ---
 
-Op de snelweg kom je tal van verkeersborden tegen die je vertellen waar je rijdt, hoe hard je mag en wat je moet doen. Goed snelwegborden kunnen lezen is belangrijk voor je veiligheid én voor je theorie-examen. Op een autosnelweg gaat alles snel: je hebt minder tijd om te reageren en de gevolgen van een fout zijn groter. Daarom toetst het CBR juist deze borden vaak. Hieronder lees je welke borden je tegenkomt, wat ze betekenen en welke regels erbij horen.
+Op de snelweg gelden weer andere specifieke regels dan op andere wegen. Aangezien dit de weg is waar je met hoge snelheid mag rijden, is het van uiterst belang dat je je aan de maximale – en minimale snelheden houdt en dat je weet wat de snelweg borden inhouden. Op deze pagina leggen wij de complete theorie gratis voor je uit.
 
-## De belangrijkste snelwegborden
+## Borden op de snelweg
 
-Op de snelweg draait alles om een handvol blauwe en rechthoekige borden die het type weg en de route aangeven:
+Voor een veilig verkeer is het van uiterst belang dat iedereen zich aan de maximumsnelheid op de snelweg houdt. Te snel rijden heeft in het verleden en is nog steeds vandaag de dag een grote oorzaak van fatale verkeersongevallen. Vandaar dat de snelheid altijd goed gemonitord wordt aan de hand van camera’s en in banen wordt geleid door snelwegborden.
 
-- **Bord G1 (autosnelweg)** — een blauw bord met een wit voertuig en twee rijbanen. Dit geeft het *begin* van de autosnelweg aan. Vanaf hier mogen alleen motorvoertuigen rijden die sneller kunnen én moeten dan 60 km/u. Fietsers, bromfietsers, landbouwvoertuigen en voetgangers zijn hier verboden.
-- **Bord G2 (einde autosnelweg)** — hetzelfde bord met rode strepen erdoorheen. De speciale snelwegregels vervallen.
-- **Bord G3 (autoweg)** — een blauw bord met één auto. De autoweg lijkt op de autosnelweg, maar heeft vaak een lagere maximumsnelheid en soms gelijkvloerse kruisingen.
-- **Bord G4 (einde autoweg)** — geeft het einde van de autoweg aan.
-- **Bewegwijzering** — de grote blauwe borden met plaatsnamen, wegnummers en afritnummers wijzen je de weg. Geel staat op niet-autosnelwegen, blauw op de snelweg.
+Aan de andere kant, is te traag rijden op de snelweg ook een gevaar en geldt er ook een minimumsnelheid voor de snelweg. Je kunt je wellicht voorstellen dat wanneer je 100 km/u rijdt en je een bestuurder verderop de snelweg tegenkomt die 40 rijdt, de [remweg](/remafstand-berekenen/) en [reactiesnelheid](/reactiesnelheid-berekenen/) niet genoeg meer is om een botsing te voorkomen.
 
-## Maximumsnelheid op de snelweg
+De maximumsnelheid op de snelweg verschilt per tijdstip. Van 06.00 tot 19.00 uur geldt een maximumsnelheid van 100 kilometer per uur, met uitzondering van wegen met een aangepaste limiet van 80 kilometer per uur. Van 19.00 tot 06.00 uur mag je op sommige snelwegen 120 kilometer per uur of 130 kilometer per uur rijden. Dit wordt altijd aangegeven door snelwegborden.
 
-Op de Nederlandse autosnelwegen geldt overdag (tussen 06:00 en 19:00 uur) standaard een maximumsnelheid van **100 km/u**. Buiten die uren mag je op sommige trajecten 130 km/u of 120 km/u rijden, maar alléén waar dit met borden of [matrixborden](/matrixborden/) staat aangegeven. Let dus altijd goed op: de snelheid die op de borden of boven de weg staat, gaat altijd vóór de algemene regel. Op een autoweg ligt de maximumsnelheid meestal op 100 km/u, maar ook hier zijn afwijkingen mogelijk.
+## Uitzonderingen snelheid autosnelweg
 
-## Matrixborden en rijstrooksignalering
+Rijd je met een aanhanger? Dan gelden er mogelijk [andere regels](/hoe-hard-mag-je-met-een-aanhanger/). Een drager die bij een fiets hoort wordt niet beschouwd als aanhanger. Voor personenauto’s met een fietsdrager geldt dezelfde maximumsnelheid als bij een normale personenauto.
 
-Boven de snelweg hangen elektronische [matrixborden](/matrixborden/). Deze borden kunnen per rijstrook iets anders aangeven:
+Maak je gebruik van het vrachtverkeer, dan geldt een maximumsnelheid van 80 kilometer per uur. Alle maximumsnelheden die er zijn voor weggebruikers staan in wetgeving. Die kun je gerust doornemen om je aan alle regels te houden, zodat je veilig en goed gebruik kunt maken van het verkeer. Op zo een manier draag je bij aan het leven van je naasten.
 
-- **Een rood kruis** betekent dat je die rijstrook *niet* mag gebruiken — vaak vanwege een ongeluk of wegwerkzaamheden.
-- **Een knipperende pijl** geeft aan dat je naar een andere rijstrook moet wisselen.
-- **Een snelheidsbord met rode rand** is een verplichte maximumsnelheid; een wit bord zonder rand is meestal een advies.
+## Snelwegborden
 
-Omdat matrixborden de situatie van moment tot moment aanpassen, gaan ze altijd vóór de vaste borden langs de weg.
+Snelwegborden zijn grote verkeersborden die meestal te zien zijn als bord boven de weg. Dit om het zo duidelijk mogelijk te maken voor bestuurders wat de geldende regels zijn. Naast de maximale snelheid borden, vind je ook andere snelwegborden zoals [matrixborden](/matrixborden/) die verschillende aanwijzingen kunnen geven, snelweg borden die de richting aangeven naar bepaalde plekken of aantonen waar de afrit is om de snelweg te verlaten.
 
-## Veilig invoegen en uitvoegen
+## Minimumsnelheid
 
-Een groot deel van het rijden op de snelweg bestaat uit in- en uitvoegen. Bij het invoegen gebruik je de **invoegstrook** om snelheid te maken, zodat je vlot kunt aansluiten bij het verkeer op de rechterrijstrook. Jij past je aan op het doorgaande verkeer, niet andersom. Bij het uitvoegen ga je tijdig naar rechts en mind je snelheid pas op de **uitrijstrook**, niet op de doorgaande rijbaan. De **vluchtstrook** (de strook helemaal rechts) is uitsluitend voor noodgevallen.
-
-## Veelgestelde vragen over snelwegborden
-
-**Hoe hard mag je overdag op de snelweg?**
-Standaard geldt tussen 06:00 en 19:00 uur een maximumsnelheid van 100 km/u. Op sommige trajecten mag je 's avonds en 's nachts harder (120 of 130 km/u), maar alleen waar dit met borden of matrixborden staat aangegeven.
-
-**Wat betekent een rood kruis boven een rijstrook?**
-Een rood kruis op een matrixbord betekent dat die rijstrook is afgesloten — bijvoorbeeld door een ongeluk of werkzaamheden. Je mag die strook dan niet gebruiken en moet tijdig naar een andere rijstrook gaan.
-
-## Oefen de snelwegborden
-
-De beste manier om snelwegborden — en alle andere verkeersborden — te leren herkennen is door te oefenen. Hoe vaker je een bord ziet, hoe sneller je het in een examenvraag herkent. Test je kennis gratis met onze [verkeersbordenquiz](/verkeersborden-oefenen/) en bekijk het complete [overzicht van alle verkeersborden](/alle-verkeersborden/). Wil je meer weten over snelheid in combinatie met een aanhanger? Lees dan ook onze pagina over [snelheid met aanhanger](/snelheid-met-aanhanger/).
+Op de autosnelweg bedraagt de minimumsnelheid zestig kilometer per uur. Voertuigen op de autosnelweg moeten dus ook minstens zestig kilometer per uur kunnen rijden. Voertuigen zoals tractoren kunnen daardoor niet op de snelweg rijden. In sommige gevallen is het niet mogelijk om de minimumsnelheid te rijden, zoals bij files of wanneer je zodanig moet afremmen. Ook bij slechte weersomstandigheden zoals zware regenval, dichte mist, sneeuwval en gladde wegen, kun je zonder sancties iets trager rijden. Dit betekent dat je dan minder dan zestig kilometer mag rijden.

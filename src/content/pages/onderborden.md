@@ -1,22 +1,30 @@
 ---
-title: "Dagcursus auto theorie | Informatie auto theorie en meer"
+title: "Onderborden"
 slug: "onderborden"
-metaTitle: "Onderborden | Autotheorieoefenen"
-metaDescription: "Een rijbewijs halen is bijna noodzakelijk, een dagcursus is daarbij erg handig om je auto theorie te halen. Lees hier meer over de dagcursus auto theorie."
-sourceUrl: "https://autotheorieoefenen.com/onderborden"
+metaTitle: "Onderborden | Wat is de functie?"
+metaDescription: "Onderborden zijn de borden onder het primaire verkeersbord. Waar moet jij op letten wanneer een verkeersbord een onderbord heeft? Je leert het hier."
 ---
 
+Naast de reguliere [verkeersborden](/verkeersborden-oefenen/), krijg je in het verkeer ook te maken met onderborden. De naam zegt het al, het zijn borden die onder de reguliere borden hangen. Onderborden zijn ook te koop in de zogenaamde OB-serie. Dit zijn officiële RVV onderborden, wat betekent dat ze goedgekeurd zijn door het Reglement Verkeersregels en Verkeerstekens. Maar waarvoor dienen de onderborden precies? Je leest het in dit artikel.
 
-Onderborden zijn borden met een tekst of symbool, die vlak onder verkeersborden zoals [snelwegborden](/snelweg-bord/) worden geplaatst. De onderborden verkeersborden kunnen onder andere informatie geven, een of meerdere groepen of voertuigen uitsluiten van de betekenis van dat bord, of juist verklaren dat het bord voor bepaalde categorie weggebruikers van toepassing is. Een verkeersbord met onderbord is in principe niet verplicht, met uitzondering van ��n verkeersbord. Dat is het gevaarsbord, onder dit verkeerbord is het wel verplicht een onderbord met uitleg over het gevaar te plaatsen.
+## Onderborden verkeer
 
-De onderbord verkeersbord kan op verschillende plekken voorkomen, ook bij verkeerslichten kan je verkeersborden onderbord tegenkomen. Een onderbord kan verschillende informatie weergeven, zoals de tijden waarop een bord geldig is, bijvoorbeeld "van 16.30 tot 18.00". Dit is vaak te zie bij scholen of ziekenhuizen. Het kan ook informatie weergeven over de weggebruikers waarop een bord niet van toepassing is, bijvoorbeeld "uitgezonderd fietsers". Het kan de plaats waar een parkeer- of stopverbod geldt aangeven. In Nederland staat het onderbord dan evenwijdig aan de weg. Bij wegversmallingsbord, kan het "ritsen vanaf hier" aangeven. Bij een toeritdosering, kan het bij groen ��n auto, bij rood ��n foto" aangeven.
+Een onderbord komt meestal voor aan de onderkant van een verkeersbord. Het onderbord geeft aanvullende informatie aan het bovenstaande verkeersbord. Op het bord staat tekst, een symbool of een combinatie daarvan. De borden kunnen onder andere informatie geven, een of meerdere groepen of voertuigen uitsluiten van een verkeerssituatie of juist verklaren dat het voor bepaalde weggebruikers van toepassing is.
 
-Het onderborden verkeer is vaak rechthoekig en wit met een tekst of symbool. Bij het zien van zo een bord is noodzakelijk om na te gaan wat voor informatie het onderbord geeft over het verkeersbord. Zoals boven aangegeven kan het bepaalde voertuigen of weggebruikers uitsluiten. Ga altijd na of dit betrekking heeft op jou. Als op een onderbord uitsluitend symbolen voorkomen, is het verkeersbord slechts voor de aangeduide weggebruikers of het aangeduide verkeersgedrag geldig. Tijdens de theorielessen leer over de onderborden en om te slagen voor het [scooter theorie examen](/) is het belangrijk de betekenissen te weten.
+Ook onder verkeerslichten kunnen onderborden worden geplaatst. In zo een geval geldt het verkeerslicht niet voor de genoemde bestuurders. Onderborden zijn gemakkelijk te herkennen. Ze hebben meestal een grijze achtergrond en met zwarte letters of symbolen wordt de extra informatie doorgegeven. Een onderbord kan dus niet afzonderlijk worden toegepast. Ook kan het verschillende functies hebben dus het is belangrijk dat je het onderbord ook leest.
 
-## Theorielessen
+Een onderbord kan nader uitleg geven over een verkeersbord. Een onderbord kan bedoeld zijn voor specifieke categorieën weggebruikers die wel gebruik mogen maken van de weg of juist bepaalde weggebruikers uitsluiten. Zie je dus een verkeersbord met een onderbord, dan moet je de aanwijzingen volgen op het onderbord. Onderborden zijn zowel bestemd voor voetgangers als bestuurders. Ze komen onder verschillende verkeersborden voor zoals [parkeersverbodborden](/parkeerverbodsborden/). Door verschillende onderborden te oefenen, raak je bekend met wat voor aanvullende informatie ze allemaal kunnen geven en onder wat voor borden ze hangen.
 
-Voor het behalen van een rijbewijs dien je theorielessen en praktijklessen te volgen. Beide worden afgesloten middels een examen, en bij succesvol afronden hiervan krijg je je rijbewijs in handen. Tijdens de theorielessen leer je uitgebreid over de geldende verkeersregels, verkeersgedrag, en verkeerstekens. De lessen bestaan uit drie onderdelen, namelijk kennis, inzicht en gevaarherkenning waardoor je moet handelen. Het is hiervoor goed [de remweg te kunnen berekenen](/remweg-berekenen/) en hoewel het niet verplicht is, kun je ook een [slipcursus volgen](/slipcursus/). Door theorie op te doen te doen over de drie onderdelen, kun je je examen succesvol afronden. Tijdens het onderdeel kennis leer je de verkeersregels, verkeersgedrag en verkeerstekens. Bij inzicht leer je situaties in het verkeer in te schatten en te reageren naar de situatie. Bij gevaarherkenning leer je gevaarlijke situaties voorspellen, met het oogpunt deze te voorkomen.
+## Invullen op het examen.
 
-### Praktijklessen
+De vragen over een onderbord hebben vaak te maken met keuzes in de vorm van afbeeldingen. Je krijgt voorbeelden van onderborden te zien waarbij je moet nagaan welke juist is en welke niet. Verder zal je ook uitleg moeten geven over wat een onderbord aangeeft en waar hij is geplaatst. Ik hoop dat door dit artikel volledig duidelijk is geworden wat onderborden inhouden. Nog belangrijker, hoop ik dat je goed voorbereid bent voor het theorie-examen. Lees het artikel rustig een aantal keren door zodat je het goed kunt onthouden. Op deze manier vergroot jij je slagingskans voor het [auto theorie-examen](/).
 
-Tijdens de praktijklessen leer je een auto besturen en de opgedane theorie toepassen in het verkeer. Het aantal rijlessen dat je nodig hebt, verschilt per persoon. Niet iedereen leert is even snel in het leren. Uit onderzoek van de CBR (Centraal Bureau voor Rijvaardigheidsbewijzen), is naar voren gekomen dat men gemiddeld 39 uren rijlessen gevolgd moet hebben om het rijden volgende de regels onder de knie te krijgen. De duur van E�n rijles verschilt van rijschool tot rijschool, bij sommigen is het vijfenveertig minuten, dan is het bij anderen weer een uur. Ga bij je keuze naar een [rijschool](/rijscholen-overzicht/) dus goed na waar voor je betaald. Ga ook na wat je allemaal in orde dient te hebben alvorens je kan deelnemen aan het rijexamen. Zorg bijvoorbeeld ervoor dat je Eigen Verklaring in orde is en goedgekeurd is door CBR.
+## Bonus tips voor auto theorie-examen oefenen
+
+Zojuist heb ik je uitgelegd hoe je je kunt voorbereiden op onderborden tijdens het examen. Maar naast dit onderwerp, worden er vele andere onderwerpen behandelt. Daarnaast zijn er ook slimme manieren om je voor te bereiden op het examen. Een aantal tips die ik met je mee wil geven zijn:
+
+- Blijf jezelf ontspannen, neem pauze van 10 minuten na elk uurtje
+- Eet goed en gezond, verwaarloos je maag helemaal niet want de energie heb je hard nodig.
+- Zorg ervoor dat je zoveel mogelijk scenario’s oefent zodat de vragen op de theorie-rijexamen herkenbaar zijn.
+- Rust goed uit voor het examen anders zal jij je suf voelen op het examen.
+- Maak zoveel mogelijk gebruik van proefexamens, het je helpen met onthouden en wie weet heb je geluk en komen enkele vragen terug.

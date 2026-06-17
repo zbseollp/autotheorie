@@ -1,31 +1,41 @@
 ---
-title: "Trekgewicht Auto | Wat Moet je Weten? Lees Het Hier!"
+title: "Trekgewicht auto"
 slug: "trekgewicht-auto"
-metaTitle: "Trekgewicht Auto | Wat Moet je Weten? Lees Het Hier!"
-metaDescription: "Meer weten over trekgewicht auto? Lees dan snel verder, wij voorzien je van alle benodigde informatie over trekgewicht auto"
-sourceUrl: "https://autotheorieoefenen.com/trekgewicht-auto"
+metaTitle: "Trekgewicht auto | Bereken het hier"
+metaDescription: "Het trekgewicht van jouw auto is volledig afhankelijk van het gewicht, de aandrijflijn en afmetingen van de auto. Bereken het hier voor jouw auto."
 ---
 
-De auto wordt voor tal van doeleinden gebruikt en is het verplaatsen van personen en vracht een primaire activiteit. Niet alleen in de auto zelf kan er veel worden meegenomen, maar is het in de meeste gevallen ook mogelijk om een aanhangwagen of camper mee te trekken. Je kunt hier vragen over krijgen tijdens je [auto theorie](/).
+Wanneer je een auto hebt, kan het aantrekkelijk zijn om een aanhanger te trekken. Denk bijvoorbeeld aan een caravan voor als je op vakantie gaat, of een aanhanger om bepaalde dingen te vervoeren. In deze is de trekkracht van je auto en het gewicht van de aanhanger van belang. Je lees hier waar je op de hoogte van moet zijn als jij een bepaalde aanhanger wilt gaan trekken.
 
-Dat is natuurlijk weer gebonden aan regels en speelt de auto zelf daarbij een grote rol. Een trekgewicht auto overzicht kan altijd op het internet opgezocht worden en zal het duidelijk zijn, dat er sprake is van grote verschillen.
+## Juiste trekgewicht auto leidt tot veilig weggedrag
 
-## Het trekvermogen auto hangt af van een aantal factoren
+Er is sprake van veilig weggedrag op het moment dat de auto voldoende trekgewicht heeft op de caravan. Je kan alleen een zwaardere caravan trekken wanneer je zeer ervaren bent in het rijden met een caravan. Onderstaande informatie is belangrijk om te slagen voor het [auto theorie examen](/), dit kan namelijk tussen de [CBR theorie examen vragen](/cbr-theorie-examen-vragen/) voorkomen.
 
-Met een stadsauto zo een forse familiecamper over de snelweg sleuren is er dus helemaal niet bij omdat apart van de strenge verkeersregels, de auto technisch in staat moet zijn om op een veilige manier om te kunnen gaan met het extra gewicht. Let er ook op dat je auto zwaarder wordt wanneer je gewicht gaat trekken. Dat heeft weer invloed op de [remweg](/remweg-berekenen/).
+Het maximale trekgewicht voor een auto is bij het rijden met een caravan zeer belangrijk om te weten. Je [remweg](/remafstand-berekenen/) komt namelijk ook hoger te liggen. Hiervoor is 1600 kg het maximaal wettelijk toegestane aanhangergewicht. Ligt dit gewicht iets hoger dan het adviesgewicht, dan is het onverstandig jouw reis te hervatten met een caravan.
 
-Het is daarom de autofabrikant die alle specificaties opgeeft. Het vermogen moet een vlotte gang in het verkeer garanderen zonder dat je op een gegeven moment met een ontplofte motor langs de weg komt te staan. Ook een vakantie in de Alpen bijvoorbeeld met zo een camper mag geen probleem zijn.
+## Welk gewicht mag mijn auto trekken
 
-Naast het vermogen, is ook de aandrijflijn en versnellingsbak van belang. Vooral bij auto's met een automatische transmissie is het van groot belang omdat de koeling van de automaat in orde moet zijn. Er wordt soms een oliekoeler ingebouwd om te voorkomen dat de versnellingsbak schade zal oplopen. Het maximaal trekgewicht auto overschrijden heeft niet alleen vergaande gevolgen voor de veiligheid, maar kan ook de auto grote schade ondervinden.
+Niet alle auto’s mogen een caravan trekken. Er zijn eisen verbonden aan de combinatie die bestaat waaraan de auto en de caravan moeten voldoen. Welke caravan je gaat gebruiken bepaalt welke auto je zal gebruiken om deze te trekken. Door middel van het kentekenbewijs op de caravan kun je zien welke maximale snelheid afgelegd moet worden.
 
-## Trekgewicht auto is afleesbaar op de autopapieren
+Elke trekauto moet voldoen aan voldoende vermogen en de juiste stabiliteit. Als het kentekenbewijs niet in de auto aanwezig is, kan het voor heel wat problemen zorgen. Het hebben van het kentekenbewijs is zeer belangrijk omdat hierin je het maximaal toegestane trekgewicht terug kan vinden.
 
-Met alle relevante technische informatie op zak, is het duidelijk dat er streng op wordt toegezien, dat het duidelijk voor alle partijen is wat het trekgewicht bedraagt.
+Als je het maximale gewicht overschrijdt, kan er een boete voorgeschreven worden. Het is verstandiger om altijd het geremde trekgewicht dat op je kentekenbewijs staat toe te passen. Ook voor het rijbewijs zijn er wettelijke eisen gesteld.
 
-Zo is de informatie aanwezig op de autopapieren en is er op het rijbewijs ook aangegeven tot waar de bevoegdheid strekt voor het trekken van een bepaald gewicht.De combinatie van dit alles zorgt ervoor, dat alles veilig eraan toe moet gaan in het verkeer.
+Met een B-rijbewijs voldoe je aan de eisen om een caravan te trekken met een gewicht van 750kg. Als het gewicht van je caravan hierboven ligt, dan heeft de caravan een eigen kentekenplaat nodig. Dat wil niet zeggen dat je direct een BE- rijbewijs nodig hebt.
+Hoeveel mag mijn auto trekken? De combinatie van de auto en de caravan mag niet hoger liggen dan 3.500 kg. Hoeveel weegt een auto? Dat is uiteraard per auto verschillend. Je vindt dit terug in het informatieboekje over je persoonlijke auto.
 
-## Trekgewicht auto berekenen, hoe doe ik dat?
+## Caravan trekken gewicht
 
-Het trekgewicht auto berekenen kan met het invoeren van de relevante technische informatie en zijn er op het internet een aantal sites aanwezig waar dit kan gebeuren. Overigens moet het trekgewicht auto ook gewoon voorkomen op het kentekenbewijs. Het achterhalen van de informatie is dus vrij eenvoudig en voorkom je met de juiste informatie heel wat ongerief.
+Als je overweegt om een caravan te kopen is het belangrijk om te weten of je auto geschikt is in het trekken van de caravan. Een normale auto kan eigenlijk elke caravan trekken, maar de andere kant van de zaak is dat er wettelijke eisen zijn gesteld voor het trekken. De combinatie waarmee jij de weg zal opgaan is bij wet voor elke auto weer anders. Hou je je aan de gewichtsverhoudingen, zal het gemakkelijker voor je zijn om jouw uitrusting goed te beheren. Het gunstigste geval is om bij het trekken van de caravan een krachtige auto te hebben.
 
-Het is naast het trekgewicht, overigens ook belangrijk te kijken naar het trekvermogen auto. Het verschil ligt in het extra vermogen waarover de auto beschikt om het gewicht met zich mee te trekken. Een auto met een groot trekvermogen hoeft perse niet een hoog trekgewicht te hebben omdat er ook de andere factoren zoals het onderstel, de remmen en de aandrijflijn erbij komen kijken. Wanneer je met een aanganger gaat rijden, geldt hier ook voor dat de [bandenspanning](/bandenspanning-autotheorie/) gecheckt moet worden.
+De meeste autobestuurders houden rekening met de verschillende kosten voor de aanschaf van een iets zwaardere en betere auto. Er zijn wat zaken waar je rekening mee moet houden als je wilt bepalen welke auto zal passen aan jouw caravan. Hier worden enkele van hen gelijst:
+
+- Het rijklaar gewicht van de auto
+- Het maximaal trekgewicht
+- De maximale combinatie gewicht van de auto en de caravan en de toegestane maximum massa van jouw caravan.
+
+Fabrikanten geven meestal een standaard toegestaan maximumgewicht voor elke caravan. De berekening hiervan geschiedt volgens de Nederlandse en Europese norm.
+
+## Maximaal trekgewicht auto bepalen
+
+Over het algemeen wordt het aangeraden om een caravan te trekken die 85 procent van het rijklaar gewicht van jouw auto bedraagt. Je moet dus bij het kiezen bewust zijn van welke auto je precies wilt aanschaffen. Een van de nadelen van een zware auto is dat je meer verbruikt en meer betaalt van de wegenbelasting.

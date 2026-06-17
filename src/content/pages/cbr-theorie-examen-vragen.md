@@ -1,25 +1,24 @@
 ---
-title: "CBR theorie examen vragen| Wat Moet je Weten? Tips & Info"
+title: "CBR theorie examen vragen"
 slug: "cbr-theorie-examen-vragen"
-metaTitle: "CBR theorie examen vragen| Wat Moet je Weten? Tips & Info"
-metaDescription: "Meer weten over de regels omtrent CBR theorie examen vragen? Lees dan snel verder, wij voorzien je van alle benodigde informatie."
-sourceUrl: "https://autotheorieoefenen.com/cbr-theorie-examen-vragen"
+metaTitle: "CBR Theorie Examen aanvragen | Snel en eenvoudig uitgelegd"
+metaDescription: "Je CBR Theorie Examen aanvragen? We leggen het stap voor stap voor je uit✓ Zo werk jij zorgeloos toe naar je autotheorie examen✓"
 ---
 
-Er is nu zoveel dat getoetst kan worden tijdens het [auto theorie examen](/) en heeft het veel te maken met de hoeveelheid van de leerstof. Ook bij het onderdeel gevaarherkenning kan er veel worden gevarieerd, maar moet je als student nu eenmaal goed erop voorbereid zijn. Er is namelijk wel degelijk een structuur in dit alles en is voldoende oefenen natuurlijk ook geboden.
+Jouw cbr theorie examen oefenen, gratis! Dan ben je bij ons op de juiste plek aangekomen. Op deze pagina leggen wij de complete theorie gratis voor je uit.
 
-Daarmee maak je kennis met het 'echte' werk en blijkt het vaker gelijk, dat er op bepaalde onderdelen nog wat meer aandacht vereist is.
+## CBR theorie examen vragen
+
+Wanneer je bezig bent je voor te bereiden op het theorie-examen van het CBR, is het gunstig om na te gaan welke cbr theorie examen vragen aan bod kunnen komen. Daarnaast ben jij top voorbereid als je van tevoren de documenten controleert die je mee dient te nemen bij het afleggen van het examen. Zo ben je op de hoogte wat de toelatingseisen zijn, het aantal examenvragen, het aantal fouten dat je mag maken tijdens het examen en de tijdsduur. De exameneisen verschillen per examen die je kunt afleggen.
 
 ## Vragen CBR theorie examen
 
-In totaal worden er 65 vragen op het examen gesteld, maar zijn ze wel verdeeld in 3 onderwerpen. Het gewicht qua het aantal vragen dat fout beantwoord mag worden, is verschillend. Het wordt daarmee ook duidelijk, welke onderdelen het meest om aandacht gaan vragen. De theorie examen vragen zijn altijd in een meerkeuze vorm te beantwoorden en levert dat al een hele besparing van de tijd op.
+Hoeveel vragen op het theorie examen auto kun je verwachten? Het examen bestaat uit verschillende onderdelen. Gevaarherkenning, kennis en inzicht. Bij gevaarherkenning krijg je 25 vragen, hier moet je er minstens 13 goed van beantwoorden. Het onderdeel kennis stelt je 12 vragen, waarvan je er minstens 10 goed van moet hebben. Ten slotte bestaat het onderdeel inzicht uit 28 vragen, hiervan moet je 25 of meer vragen goed beantwoorden.
 
-Het zorgt er echter wel voor, dat er in bepaalde gevallen wel flink getwijfeld zal worden omdat de antwoorden zoveel op elkaar lijken. Bij het onderdeel kennis kan je vragen verwachten als: In welke gevallen heeft een politieauto of ambulance voorrang, moet er voorrang verleent worden aan een voetganger die een [onverharde weg oversteekt](/onverharde-wegen/), etc.
+## Welke CBR auto theorie vragen krijg je op het examen?
 
-## Tijd voor de examenvragen van het CBR
+Het officiële [CBR](/mijn-cbr/) theorie-examen is vergelijkbaar met het gratis oefen theorie-examen. De tijdsduur die je maximaal kunt besteden aan het examen is 45 minuten, tenzij je extra tijd hebt aangevraagd. Aan het eind van het examen krijg je direct de uitslag. Je kunt dan zien welke vragen je correct beantwoord hebt. Zo weet jij waar je extra focus op moet leggen, indien je opnieuw auto theorie moet inplannen.
 
-Een examen zou een examen nu eenmaal niet zijn wanneer er geen tijd aan verbonden zou zijn. Het CBR theorie examen tijd per vraag is verschillend. In totaal is er voor het examen 30 minuten beschikbaar en is dat onderverdeeld. Zo krijg je voor het onderdeel kennis 8 minuten en is dat voor de 12 vragen. Voor de 28 vragen van het onderdeel inzicht is er 16 minuten ter beschikking. Het is al duidelijk dat er grote verschillen onderling zijn. De resterende 6 minuten zijn gereserveerd voor gevaarherkenning.
+Natuurlijk hopen we dat je de eerste keer direct geslaagd bent. In de praktijk blijkt echter dat de meeste kandidaten niet meteen slagen. In de meeste gevallen slaagt 44% van de kandidaten die deelnemen aan het theorie-examen bij de eerste keer. Het is daarom zo van belang om cbr theorie-examen te oefenen.
 
-De auto theorie examen vragen zijn allemaal aangepast aan de actuele verkeerssituaties en vormen ze een stevige basis voor het praktijkexamen. Lang hoef je niet te wachten op het resultaat en krijg je het namelijk gelijk te zien aan het eind van het examen. Indien je er niet voor bent geslaagd, kan er zo meteen werk van worden gemaakt om de draad op te pakken en het nog eens te proberen.
-
-Het gaat er dus strak aan toe bij de examenvragen van het CBR en is er op [het onderdeel gevaarherkenning](/gevaarherkenning-oefenen/) na, niet veel ruimte voor het maken van fouten. Oefenen en de leerstof rustig doornemen is het advies om succes te behalen en mag er daarna eindelijk van start worden gegaan met het praktijkgedeelte.
+Mocht je veel cbr theorie-examen vragen hebben beantwoord in het [gratis theorie oefen examen](/) of wil je het cbr theorie-examen aanvragen? Dan zijn er meerdere pakketten die 10 of 20 auto theorie-examens van het CBR bieden. Alhoewel deze niet gratis zijn, is het zeker de moeite waard. Ben je eenmaal geslaagd voor je theorie examen? Gefeliciteerd! Dan is de volgende stap om je [rijbewijs aan te vragen](/rijbewijs-aanvragen/)!

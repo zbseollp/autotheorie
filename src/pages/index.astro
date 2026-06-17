@@ -5,23 +5,23 @@ import Button from "@components/Button.astro";
 import BlogPostCard from "@components/BlogPostCard.astro";
 import { getRecentPosts } from "@lib/posts";
 import { SITE } from "@lib/site";
-import signsRaw from "../data/signs.json";
 
 const recent = await getRecentPosts(6);
-const heroSigns = (signsRaw as { id: string; name: string }[])
-  .filter((s) => s.name && s.name.toLowerCase() !== "bord").slice(0, 9);
 
 const topics = [
-  { title: "Verkeersborden oefenen", desc: "Test in 20 vragen of jij alle borden kent.", href: "/verkeersborden-oefenen/", cta: "Start de quiz" },
-  { title: "Alle verkeersborden", desc: "Compleet overzicht van alle Nederlandse borden.", href: "/alle-verkeersborden/", cta: "Bekijk overzicht" },
-  { title: "Voorrangsregels", desc: "Alles over voorrang, kruispunten en haaientanden.", href: "/voorrangsregels/", cta: "Lees uitleg" },
-  { title: "Motor theorie", desc: "Oefen specifiek voor je motortheorie-examen.", href: "/motor-theorie/", cta: "Naar motor theorie" },
+  { title: "Verkeersborden oefenen", desc: "20 vragen, direct feedback. Weet jij elk bord te herkennen?", href: "/verkeersborden-oefenen/", cta: "Start de quiz" },
+  { title: "Alle verkeersborden", desc: "Alle 160 borden op één overzichtspagina — per categorie.", href: "/alle-verkeersborden/", cta: "Bekijk overzicht" },
+  { title: "Voorrangsregels", desc: "Van haaientanden tot gelijkwaardige kruispunten — volledig uitgelegd.", href: "/voorrangsregels/", cta: "Lees uitleg" },
+  { title: "Motor theorie", desc: "Aparte stof voor het motorrijbewijs, met examentips.", href: "/motor-theorie/", cta: "Naar motor theorie" },
 ];
 
-const stats = [
-  { value: "160", label: "Verkeersborden" },
-  { value: "100%", label: "Gratis oefenen" },
-  { value: "161.632+", label: "Toetsen gemaakt" },
+const checklist = [
+  "Verkeersborden & betekenis",
+  "Voorrangsregels & kruispunten",
+  "Gevaarherkenning",
+  "Snelheidsregels & remweg",
+  "Motor- & scootertheorie",
+  "CBR-examentips & strategie",
 ];
 
 const jsonld = {
@@ -33,85 +33,145 @@ const jsonld = {
 };
 ---
 <BaseLayout
-  title="Theorie examen oefenen? Gratis & online | Autotheorieoefenen"
+  title="Autotheorie leren — gratis & compleet | Autotheorie.nl"
   description={SITE.description}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonld)} is:inline />
 
   <!-- Hero -->
-  <section class="relative overflow-hidden -mt-16 pt-16 md:-mt-20 md:pt-20 bg-[linear-gradient(180deg,var(--color-brand-50)_0%,#fff_72%)]">
-    <Container class="grid items-center gap-10 py-(--spacing-section) lg:grid-cols-2">
+  <section class="-mt-16 pt-16 md:-mt-[5rem] md:pt-[5rem] bg-white">
+    <Container class="grid items-center gap-12 py-(--spacing-section) lg:grid-cols-2">
       <div>
-        <span class="inline-flex items-center rounded-full bg-brand-100 px-3 py-1 text-sm font-semibold text-brand-800">Gratis · CBR theorie 2026</span>
+        <span class="inline-flex items-center gap-1.5 rounded-full bg-brand-50 px-3 py-1 text-sm font-semibold text-brand-700">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="7" fill="#059669"/><path d="M4 7.2L6.2 9.4L10 5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Gratis · CBR theorie 2026
+        </span>
         <h1 class="mt-5 text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
-          Theorie-examen oefenen?<br /><span class="text-brand-600">Wij helpen je slagen.</span>
+          De slimste route<br />naar je <span class="text-brand-600">rijbewijs.</span>
         </h1>
         <p class="mt-5 max-w-xl text-lg text-slate-600">
-          Oefen gratis met verkeersborden, voorrangsregels en alle onderwerpen van het
-          CBR theorie-examen. Direct beginnen, geen account nodig.
+          Alles voor je autotheorie op één plek. Verkeersborden, voorrangsregels,
+          gevaarherkenning en meer — gratis, zonder inschrijven.
         </p>
         <div class="mt-8 flex flex-wrap gap-3">
-          <Button href="/verkeersborden-oefenen/" variant="primary">Start met oefenen</Button>
-          <Button href="/alle-verkeersborden/" variant="secondary">Bekijk alle borden</Button>
+          <Button href="/verkeersborden-oefenen/" variant="primary">Begin met oefenen</Button>
+          <Button href="/alle-verkeersborden/" variant="secondary">Alle verkeersborden</Button>
         </div>
       </div>
-      <div class="rounded-2xl border border-slate-200 bg-white p-4 shadow-xl">
-        <div class="grid grid-cols-3 gap-3">
-          {heroSigns.map((s, i) => (
-            <img src={`/assets/images/signs/${s.id}.png`} alt={s.name}
-                 width="120" height="120" loading={i < 3 ? "eager" : "lazy"} decoding="async"
-                 class="aspect-square w-full rounded-lg border border-slate-100 bg-white object-contain p-1.5" />
+
+      <!-- Checklist card -->
+      <div class="rounded-2xl border border-slate-200 bg-slate-50 p-6 shadow-sm">
+        <p class="text-xs font-semibold uppercase tracking-widest text-brand-600">Wat je leert</p>
+        <ul class="mt-4 space-y-3">
+          {checklist.map((item) => (
+            <li class="flex items-center gap-3 text-sm font-medium text-slate-800">
+              <span class="inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-100">
+                <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                  <path d="M2 6.3L4.5 8.8L10 3" stroke="#047857" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </span>
+              {item}
+            </li>
           ))}
-        </div>
+        </ul>
+        <a href="/verkeersborden-oefenen/" class="mt-6 flex w-full items-center justify-center rounded-xl bg-brand-600 px-5 py-3 text-sm font-semibold text-white transition hover:bg-brand-700">
+          Direct beginnen →
+        </a>
       </div>
     </Container>
   </section>
 
-  <!-- Stats -->
-  <section class="border-y border-slate-200 bg-slate-50">
-    <Container class="grid grid-cols-3 gap-4 py-8 text-center">
-      {stats.map((s) => (
-        <div>
-          <div class="text-2xl font-extrabold text-brand-700 sm:text-3xl">{s.value}</div>
-          <div class="mt-1 text-sm text-slate-600">{s.label}</div>
+  <!-- Stats bar -->
+  <section class="bg-brand-700">
+    <Container class="grid grid-cols-3 divide-x divide-brand-600 py-7 text-center">
+      {[
+        { value: "50", label: "Vragen in het CBR-examen" },
+        { value: "44/50", label: "Minimaal nodig om te slagen" },
+        { value: "100%", label: "Gratis voorbereiden" },
+      ].map((s) => (
+        <div class="px-4">
+          <div class="text-2xl font-extrabold text-white sm:text-3xl">{s.value}</div>
+          <div class="mt-1 text-xs text-brand-200">{s.label}</div>
         </div>
       ))}
     </Container>
   </section>
 
-  <!-- Featured topics -->
-  <section>
+  <!-- Topics grid -->
+  <section class="bg-white">
     <Container class="py-(--spacing-section)">
-      <h2 class="text-3xl font-extrabold tracking-tight text-slate-900">Waar wil je mee oefenen?</h2>
-      <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+      <h2 class="text-3xl font-extrabold tracking-tight text-slate-900">Waar wil je mee beginnen?</h2>
+      <p class="mt-2 text-slate-500">Kies een onderwerp en ga direct aan de slag.</p>
+      <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {topics.map((t) => (
-          <a href={t.href} class="group flex flex-col rounded-2xl border border-slate-200 bg-white p-6 transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-lg">
-            <h3 class="text-lg font-bold text-slate-900 group-hover:text-brand-700">{t.title}</h3>
+          <a
+            href={t.href}
+            class="group flex flex-col rounded-2xl border-l-4 border-brand-500 bg-slate-50 p-6 transition hover:bg-brand-50 hover:border-brand-600"
+          >
+            <h3 class="text-base font-bold text-slate-900 group-hover:text-brand-700">{t.title}</h3>
             <p class="mt-2 flex-1 text-sm text-slate-600">{t.desc}</p>
-            <span class="mt-4 text-sm font-semibold text-brand-700">{t.cta} →</span>
+            <span class="mt-5 text-sm font-semibold text-brand-600 group-hover:text-brand-700">{t.cta} →</span>
           </a>
         ))}
       </div>
     </Container>
   </section>
 
+  <!-- Internal links -->
+  <section class="border-t border-slate-100 bg-slate-50">
+    <Container class="py-12">
+      <h2 class="text-2xl font-extrabold tracking-tight text-slate-900">Alles voor je theorie-examen</h2>
+      <p class="mt-1 text-sm text-slate-500">Direct naar het onderwerp dat je nodig hebt.</p>
+      <ul class="mt-5 grid gap-x-4 gap-y-1.5 text-sm sm:grid-cols-2 lg:grid-cols-4">
+        {[
+          { label: "Mijn CBR", href: "/mijn-cbr/" },
+          { label: "Voorrangsregels", href: "/voorrangsregels/" },
+          { label: "CBR slagingspercentage", href: "/cbr-slagingspercentage/" },
+          { label: "Kosten theorie examen", href: "/kosten-theorie-examen-auto/" },
+          { label: "Motor theorie", href: "/motor-theorie/" },
+          { label: "Scooter theorie", href: "/scooter-theorie/" },
+          { label: "Gelijkwaardig kruispunt", href: "/gelijkwaardig-kruispunt/" },
+          { label: "Verkeersregelaar tekens", href: "/verkeersregelaar/" },
+          { label: "Rijbewijs B halen", href: "/rijbewijs-b/" },
+          { label: "Theorie examen tips", href: "/theorie-examen-tips/" },
+          { label: "Gevaarherkenning oefenen", href: "/gevaarherkenning-oefenen/" },
+          { label: "Haaientanden betekenis", href: "/haaientanden/" },
+          { label: "Remweg berekenen", href: "/remweg-berekenen/" },
+          { label: "Hoeveel fouten mag je maken", href: "/hoeveel-fouten-theorie-examen-auto/" },
+          { label: "Herexamen CBR", href: "/herexamen-cbr/" },
+          { label: "Theorie in 1 dag", href: "/theorie-in-1-dag/" },
+          { label: "Verkeersborden uitleg", href: "/verkeersborden/" },
+          { label: "Rijexamen info", href: "/rijexamen/" },
+          { label: "Wat is dimlicht", href: "/wat-is-dimlicht/" },
+          { label: "Rijbewijs A halen", href: "/rijbewijs-a/" },
+        ].map((l) => (
+          <li>
+            <a href={l.href} class="flex items-center gap-2 rounded-lg px-3 py-2 text-slate-700 transition hover:bg-white hover:text-brand-700">
+              <span class="text-brand-500" aria-hidden="true">→</span>{l.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </section>
+
   <!-- CTA band -->
-  <section class="bg-brand-700">
+  <section class="bg-brand-600">
     <Container class="flex flex-col items-center justify-between gap-5 py-12 text-center sm:flex-row sm:text-left">
       <div>
-        <h2 class="text-2xl font-extrabold text-white">Klaar om te oefenen?</h2>
-        <p class="mt-1 text-brand-50">Begin nu gratis met de verkeersbordenquiz — 20 vragen.</p>
+        <h2 class="text-2xl font-extrabold text-white">Klaar voor het examen?</h2>
+        <p class="mt-1 text-brand-100">Test jezelf direct met de gratis verkeersborden-quiz.</p>
       </div>
-      <a href="/verkeersborden-oefenen/" class="inline-flex shrink-0 items-center rounded-xl bg-white px-6 py-3 font-semibold text-brand-700 transition hover:bg-brand-50">Start de quiz</a>
+      <a href="/verkeersborden-oefenen/" class="inline-flex shrink-0 items-center rounded-xl bg-white px-6 py-3 font-semibold text-brand-700 transition hover:bg-brand-50">Begin de quiz →</a>
     </Container>
   </section>
 
   <!-- Latest from the blog -->
   {recent.length > 0 && (
-    <section>
+    <section class="bg-white">
       <Container class="py-(--spacing-section)">
         <div class="flex items-end justify-between">
-          <h2 class="text-3xl font-extrabold tracking-tight text-slate-900">Laatste uit de blog</h2>
+          <h2 class="text-3xl font-extrabold tracking-tight text-slate-900">Uit de blog</h2>
           <a href="/blog/" class="text-sm font-semibold text-brand-700 hover:underline">Alle artikelen →</a>
         </div>
         <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

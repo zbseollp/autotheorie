@@ -1,33 +1,32 @@
 ---
-title: "Dronken Op De Fiets | Wat Moet je Weten? Regels & Informatie"
+title: "Dronken op de fiets"
 slug: "dronken-op-de-fiets"
-metaTitle: "Dronken Op De Fiets | Wat Moet je Weten? Regels & Informatie"
-metaDescription: "Meer weten over de regels omtrent dronken op de fiets? Lees dan snel verder, wij voorzien je van alle benodigde informatie."
-sourceUrl: "https://autotheorieoefenen.com/dronken-op-de-fiets"
+metaTitle: "Dronken op de fiets | Waarom je dit beter niet kunt doen"
+metaDescription: "Ooit afgevraagd wat de consequenties zijn als je dronken bent op de fiets? Lees hier de exacte regelgeving en waarom je beter niet dronken op de fiets stapt."
 ---
 
-Kijk, dat is nu weer eens een situatis die vaak voorkomt. Een avondje stappen, even op bezoek bij wat vrienden of gewoon thuis zelf te diep in het glaasje hebben gekeken.
-
-Het zorgt helaas wel voor onnodig veel risico in het verkeer en is het daarom elke keer weer een kwalijke zaak, ook al wordt je er niet op betrapt. Ernstig letsel aan jezelf, maar ook anderen kan het geval zijn en zullen de straffen in zulke gevallen ook niet mals zijn. Het gaat ook lastiger voor je zijn om op de [fiets borden](/fietspad-bord/)te letten.
+Mag je dronken fietsen is een vraag die veel mensen stellen. Over het algemeen weet iedereen wel dat je niet mag drinken en rijden in de auto, maar hoe zit dat met fietsen? We leggen het aan je uit in onderstaand artikel.
 
 ## Mag je dronken fietsen?
 
-Zo een limmiet is namelijk wetenschappelijk onderbouwdt en geeft het de grens aan waar een normaal functioneren begint te stremmen. Het reactievermogen bijvoorbeeld, maar het moeilijk kunnen balanceren. Het laatste is van groot belang voor een fietser en mag een blaastest afgenomen worden wanneer de agent zijn of haar twijfels heeft.
+De politie kan je geen rijontzegging voor de fiets geven als je dronken op de fiets een boete krijgt. Je kunt wel voor enkele uren een rijverbod opgelegd krijgen voor de auto. Fietsen onder invloed van alcohol mag niet. Het veroorzaakt een gevaarlijk rijgedrag dat niet acceptabel is in het verkeer en brengt daarbij anderen ook in gevaar. Dit leer je ook tijdens het oefenen van het [auto theorie examen](/).
 
-De grens van 0.5 promille is vastgesteld en staat dit gelijk aan die voor automobilisten of bromfietsers. Het maakt immers niet veel uit op welk voertuig jij je bevindt omdat het verkeer in gevaar wordt gebracht.
+Deelnemen aan het verkeer moet onder een nuchtere toestand gebeuren. Dronken achter het stuur zitten is dus verboden. Als je onder invloed van alcohol fietst, kan het een gevaar vormen voor anderen en een ongeluk veroorzaken waarbij er een dode kan vallen.
 
-De invloed van een dronken fietser mag nooit onderschat worden ondanks die valt onder het langzaam verkeer. Bij het niet meer kunnen naleven van de verkeersregels in zo een dronken bui, kan er immers veel gebeuren als je [de fietsborden in het verkeer](/verkeersborden-fiets/)  bijvoorbeeld mist. Ook je [remweg berekenen](/remweg-berekenen/)wordt veel lastiger.
+Ook als fietser krijg je een alcohollimiet. Als je een fietser bent mag jouw alcoholgehalte niet hoger zijn dan 0,5 promille. Dat is een limiet, net als bij automobilisten.
+
+## Geldboete
+
+Naast het feit dat je een rijverbod krijgt, kun je ook een geldboete krijgen. Dit is de boete voor rijden onder invloed. Als je als fietser het verkeer in gevaar brengt of hindert, kun je veroordeeld worden. Ook als je een verkeersongeval veroorzaakt, kun je veroordeeld worden. Vooral als iemand komt te overlijden of een zware lichamelijke verwonding oploopt.
+
+Na hoeveel bier je dronken bent, is uiteraard voor iedereen anders. Daarom wordt er een richtlijn aangegeven dat als je een alcoholconcentratie van meer dan 0,22 milligram hebt, het verboden is op een openbare plaats een voertuig te besturen. Deze regels gelden overigens zowel voor motorvoertuigen als voor andere voortbewegingstoestellen. Dus ook voor een step of een skateboard. Als je alcohol op hebt, heb je minder focus en tragere [reactiesnelheid](/reactiesnelheid-berekenen/). Je [remweg](/remafstand-berekenen/) wordt dan ook langer.
+
+De straf die je zal krijgen is hetzelfde bij alle andere voertuigen. Deze straf bestaat minimaal uit een geldboete voor dronken fietsen. En deze boete is afhankelijk van de mate van dronkenschap. Dronkenschap wordt zwaar beoordeeld met betrekking tot de toestand, gedragingen of houding. Er kan je gevraagd worden om te laten zien of je nog rechtdoor kunt lopen en fatsoenlijk kunt praten.
 
 ## Dronken op de fiets boete
 
-Wanneer het alcoholpercentage zich boven de limiet bevindt, kan er een dronken op de fiets boete worden uitgeschreven. Natuurlijk mag je ook niet door met de fiets en kan het ook noodzakelijk worden geacht om naar het politiebureau te worden gebracht ter ontnuchtering.
+In de wet wegverkeer staat vermeld dat een fietser onder invloed van alcohol een boete krijgt en dus niet verder mag rijden. De fietser wordt volgens de wet ook beschouwd als bestuurder. Vroeger werd het rijbewijs automatisch ingetrokken. Nu is het zo dat je er een rijverbod voor krijgt.
 
-Dronken op de fiets rijbewijs invorderen is er echter niet bij en wordt dit onderscheidt wel duidelijk gemaakt. Dat mag dan wel een geruststelling zijn, maar moet het besef er wel duidelijk aanwezig zijn, dat dronken deelnemen aan het verkeer helemaal verkeerd is.
+De intrekking die voorheen gold is per 1 oktober 2017 afgeschaft. Dit is gedaan omdat dit geen rechtstreekse overtreding is. Het is wel belangrijk te weten dat het intrekken niet meer rechtstreeks gebeurt, maar rechters hebben wel nog de mogelijkheid om naast een geldboete het rijbewijs wel nog in te trekken bij dit soort gevallen.
 
-## Regels omtrent dronken fietsen
-
-Bij het aanhouden en beboeten, zal er gelijk nagegaan worden of er sprake is van een patroon waarbij betrokkene al vaker is aangehouden. Dat heeft allemaal invloed op de hoogte van de boete.
-
-Mag je dronken fietsen? In principe wel zolang het alcoholpercentage in het bloed onder de 0.5 promille bedraagt. Omdat we allemaal in de praktijk niet over zo een blaastest apparaat beschikken, is het dus beter om het drinken achterweg te laten.
-
-Het rijbewijs kwijt dronken op de fiets is er niet bij omdat het apart wordt bekeken, maar zal er wel een ernstige berisping volgen voor zulks onverantwoord gedrag.
+Loop je over straat in een beschonken toestand, dan wordt je niet getypeerd als bestuurder van een voertuig. Toch ben je dan in overtreding. In het wetboek van Strafrecht zijn al dit soort gevallen beschreven. Volgens artikel 453 mag je je niet in dronkenschap op de openbare weg bevinden. Maar in dit geval zal de politie je niet zomaar aanhouden of bekeuren. Dan zal er spraken moeten zijn van overlast. ervoor gezorgd worden dat er geen sprake is van overlast. Kortom, de kans dat iemand onder invloed wordt bekeurd of aangehouden is heel erg klein, mits degene zich aan de verkeersregels houdt.
