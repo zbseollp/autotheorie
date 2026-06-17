@@ -1,0 +1,193 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Container from "@components/Container.astro";
+
+const features = [
+  "35 videohoofdstukken — alle CBR-stof behandeld",
+  "±4 uur videocontent, zelfgestuurd tempo",
+  "Lifetime toegang op alle apparaten",
+  "Ezelsbruggetjes voor moeilijke stof",
+  "CBR-trucs en valkuilen uitgelegd",
+  "Bonusmateriaal inbegrepen",
+  "Vragen stellen aan de docent",
+  "Geschikt voor auto én scooter (AM)",
+];
+
+const plans = [
+  {
+    name: "Snel",
+    duration: "72 uur toegang",
+    price: "9,99",
+    desc: "Intensief studeren in één weekend.",
+    highlight: false,
+  },
+  {
+    name: "Standaard",
+    duration: "2 weken toegang",
+    price: "14,99",
+    desc: "Rustig doorwerken naast school of werk.",
+    highlight: true,
+    badge: "Meest gekozen",
+  },
+  {
+    name: "Uitgebreid",
+    duration: "31 dagen toegang",
+    price: "19,99",
+    desc: "Maximale tijd voor een zekere voorbereiding.",
+    highlight: false,
+  },
+];
+
+const testimonials = [
+  {
+    name: "Fatima A.",
+    text: "Ik leer veel beter van video's dan van een boek. Na de cursus snapte ik eindelijk de voorrangsregels — en ik ben in één keer geslaagd!",
+  },
+  {
+    name: "Tom van B.",
+    text: "Duidelijke uitleg, goeie voorbeelden. Binnen twee weken gehaald. Aanrader voor iedereen die snel wil slagen.",
+  },
+  {
+    name: "Nour E.",
+    text: "De ezelsbruggetjes helpen echt. Ik wist altijd welk bord wat betekende tijdens het examen. Bedankt!",
+  },
+];
+---
+<BaseLayout
+  title="Video Cursus Autotheorie — Slaag in één keer | Autotheorie.nl"
+  description="Leer autotheorie met onze videocursus: 35 hoofdstukken, 4 uur video, lifetime toegang. 88% slagingspercentage. Niet goed? Geld terug!"
+>
+  <!-- Hero -->
+  <section class="bg-gradient-to-b from-brand-700 to-brand-900 py-20 text-white">
+    <Container class="mx-auto max-w-3xl text-center">
+      <span class="inline-block rounded-full bg-brand-500 px-4 py-1 text-xs font-bold uppercase tracking-widest">
+        Tijdelijke aanbieding
+      </span>
+      <h1 class="mt-5 text-4xl font-extrabold tracking-tight sm:text-5xl">
+        Slaag voor je autotheorie<br />met onze video cursus
+      </h1>
+      <p class="mt-5 text-lg text-brand-100">
+        35 videohoofdstukken · ±4 uur content · Lifetime toegang
+      </p>
+      <div class="mt-8 inline-flex flex-col items-center gap-1">
+        <span class="text-sm text-brand-300 line-through">€ 69,99</span>
+        <span class="text-5xl font-extrabold">€ 29,99</span>
+        <span class="text-brand-200 text-sm">eenmalig · geen abonnement</span>
+      </div>
+      <div class="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+        <a
+          href="/mijn-account/"
+          class="rounded-xl bg-white px-8 py-3.5 font-bold text-brand-700 shadow transition hover:bg-brand-50"
+        >
+          Direct starten →
+        </a>
+        <span class="flex items-center gap-1.5 text-sm text-brand-200">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          Niet goed, geld terug!
+        </span>
+      </div>
+      <p class="mt-4 text-sm text-brand-300">88% van onze cursisten slaagt in één keer · Nationaal gemiddelde: 50%</p>
+    </Container>
+  </section>
+
+  <!-- Features -->
+  <section class="bg-white py-16">
+    <Container class="max-w-4xl">
+      <h2 class="text-center text-3xl font-extrabold tracking-tight text-slate-900">
+        Wat zit er in de cursus?
+      </h2>
+      <div class="mt-10 grid gap-4 sm:grid-cols-2">
+        {features.map((f) => (
+          <div class="flex items-start gap-3 rounded-xl border border-slate-100 bg-slate-50 p-4">
+            <span class="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-brand-100">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                <path d="M2 6.3L4.5 8.8L10 3" stroke="#047857" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </span>
+            <span class="text-sm font-medium text-slate-800">{f}</span>
+          </div>
+        ))}
+      </div>
+    </Container>
+  </section>
+
+  <!-- Pricing - practice bundles -->
+  <section class="border-t border-slate-100 bg-slate-50 py-16">
+    <Container class="max-w-4xl">
+      <h2 class="text-center text-3xl font-extrabold tracking-tight text-slate-900">
+        Oefenomgeving — kies jouw abonnement
+      </h2>
+      <p class="mt-2 text-center text-slate-500">Onbeperkt CBR-oefenvragen met directe feedback. Kies hoe lang je toegang wilt.</p>
+      <div class="mt-10 grid gap-6 sm:grid-cols-3">
+        {plans.map((p) => (
+          <div class:list={[
+            "relative flex flex-col rounded-2xl border-2 p-6 shadow-sm",
+            p.highlight ? "border-brand-500 bg-white" : "border-slate-200 bg-white",
+          ]}>
+            {p.badge && (
+              <span class="absolute -top-3 left-1/2 -translate-x-1/2 rounded-full bg-brand-600 px-3 py-0.5 text-xs font-bold text-white">
+                {p.badge}
+              </span>
+            )}
+            <p class:list={["text-xs font-semibold uppercase tracking-widest", p.highlight ? "text-brand-600" : "text-slate-400"]}>
+              {p.name}
+            </p>
+            <p class="mt-1 text-sm font-medium text-slate-600">{p.duration}</p>
+            <p class="mt-4 text-4xl font-extrabold text-slate-900">€ {p.price}</p>
+            <p class="mt-2 flex-1 text-sm text-slate-500">{p.desc}</p>
+            <a
+              href="/mijn-account/"
+              class:list={[
+                "mt-6 block rounded-xl py-2.5 text-center text-sm font-semibold transition",
+                p.highlight
+                  ? "bg-brand-600 text-white hover:bg-brand-700"
+                  : "border border-slate-200 text-slate-700 hover:border-brand-500 hover:text-brand-700",
+              ]}
+            >
+              Kies dit pakket
+            </a>
+          </div>
+        ))}
+      </div>
+      <p class="mt-6 text-center text-xs text-slate-400">Betalen via iDeal, creditcard of PayPal. Veilig & snel.</p>
+    </Container>
+  </section>
+
+  <!-- Testimonials -->
+  <section class="bg-white py-16">
+    <Container class="max-w-4xl">
+      <h2 class="text-center text-3xl font-extrabold tracking-tight text-slate-900">
+        Wat zeggen onze cursisten?
+      </h2>
+      <div class="mt-10 grid gap-6 sm:grid-cols-3">
+        {testimonials.map((t) => (
+          <figure class="rounded-2xl border border-slate-100 bg-slate-50 p-6">
+            <div class="flex gap-0.5 text-brand-500" aria-label="5 sterren">
+              {Array.from({length: 5}).map(() => (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+              ))}
+            </div>
+            <blockquote class="mt-3 text-sm leading-relaxed text-slate-700">"{t.text}"</blockquote>
+            <figcaption class="mt-3 text-xs font-semibold text-slate-500">{t.name}</figcaption>
+          </figure>
+        ))}
+      </div>
+    </Container>
+  </section>
+
+  <!-- CTA -->
+  <section class="bg-brand-700 py-16">
+    <Container class="max-w-2xl text-center">
+      <h2 class="text-3xl font-extrabold text-white">Klaar om te beginnen?</h2>
+      <p class="mt-3 text-brand-100">Maak gratis een account aan en start vandaag nog met de videocursus.</p>
+      <div class="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+        <a href="/mijn-account/" class="rounded-xl bg-white px-8 py-3.5 font-bold text-brand-700 transition hover:bg-brand-50">
+          Account aanmaken →
+        </a>
+        <a href="/mijn-account/" class="text-sm font-medium text-brand-200 hover:text-white underline">
+          Al een account? Inloggen
+        </a>
+      </div>
+    </Container>
+  </section>
+</BaseLayout>

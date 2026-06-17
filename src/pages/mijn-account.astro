@@ -1,0 +1,151 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Container from "@components/Container.astro";
+---
+<BaseLayout
+  title="Mijn account — Inloggen of registreren | Autotheorie.nl"
+  description="Log in op je Autotheorie.nl account of maak een nieuw account aan."
+>
+  <Container class="py-(--spacing-section)">
+    <div class="mx-auto max-w-md">
+      <!-- Tabs -->
+      <div class="flex rounded-xl border border-slate-200 bg-slate-50 p-1">
+        <button
+          id="tab-login"
+          data-tab="login"
+          class="flex-1 rounded-lg py-2.5 text-sm font-semibold transition bg-white text-slate-900 shadow-sm"
+        >
+          Inloggen
+        </button>
+        <button
+          id="tab-register"
+          data-tab="register"
+          class="flex-1 rounded-lg py-2.5 text-sm font-semibold transition text-slate-500 hover:text-slate-800"
+        >
+          Registreren
+        </button>
+      </div>
+
+      <!-- Login form -->
+      <div id="panel-login" class="mt-8">
+        <h1 class="text-2xl font-extrabold tracking-tight text-slate-900">Welkom terug</h1>
+        <p class="mt-1 text-sm text-slate-500">Log in om verder te gaan met je cursus.</p>
+        <form class="mt-6 space-y-4" onsubmit="return false">
+          <div>
+            <label for="login-email" class="block text-sm font-medium text-slate-700">E-mailadres</label>
+            <input
+              type="email" id="login-email" name="email" autocomplete="email"
+              placeholder="jij@voorbeeld.nl"
+              class="mt-1 block w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200"
+            />
+          </div>
+          <div>
+            <div class="flex items-center justify-between">
+              <label for="login-pass" class="block text-sm font-medium text-slate-700">Wachtwoord</label>
+              <a href="#" class="text-xs text-brand-600 hover:underline">Vergeten?</a>
+            </div>
+            <input
+              type="password" id="login-pass" name="password" autocomplete="current-password"
+              placeholder="••••••••"
+              class="mt-1 block w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200"
+            />
+          </div>
+          <button
+            type="submit"
+            class="w-full rounded-xl bg-brand-600 py-3 text-sm font-bold text-white transition hover:bg-brand-700"
+          >
+            Inloggen
+          </button>
+        </form>
+        <p class="mt-6 text-center text-sm text-slate-500">
+          Nog geen account?
+          <button data-tab="register" class="ml-1 font-semibold text-brand-600 hover:underline">Registreer gratis</button>
+        </p>
+      </div>
+
+      <!-- Register form -->
+      <div id="panel-register" class="mt-8 hidden">
+        <h1 class="text-2xl font-extrabold tracking-tight text-slate-900">Account aanmaken</h1>
+        <p class="mt-1 text-sm text-slate-500">Gratis registreren — direct toegang tot oefenvragen.</p>
+        <form class="mt-6 space-y-4" onsubmit="return false">
+          <div class="grid gap-4 sm:grid-cols-2">
+            <div>
+              <label for="reg-first" class="block text-sm font-medium text-slate-700">Voornaam</label>
+              <input
+                type="text" id="reg-first" name="first_name" autocomplete="given-name"
+                placeholder="Jan"
+                class="mt-1 block w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200"
+              />
+            </div>
+            <div>
+              <label for="reg-last" class="block text-sm font-medium text-slate-700">Achternaam</label>
+              <input
+                type="text" id="reg-last" name="last_name" autocomplete="family-name"
+                placeholder="de Vries"
+                class="mt-1 block w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200"
+              />
+            </div>
+          </div>
+          <div>
+            <label for="reg-email" class="block text-sm font-medium text-slate-700">E-mailadres</label>
+            <input
+              type="email" id="reg-email" name="email" autocomplete="email"
+              placeholder="jij@voorbeeld.nl"
+              class="mt-1 block w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200"
+            />
+          </div>
+          <div>
+            <label for="reg-pass" class="block text-sm font-medium text-slate-700">Wachtwoord</label>
+            <input
+              type="password" id="reg-pass" name="password" autocomplete="new-password"
+              placeholder="Minimaal 8 tekens"
+              class="mt-1 block w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200"
+            />
+          </div>
+          <button
+            type="submit"
+            class="w-full rounded-xl bg-brand-600 py-3 text-sm font-bold text-white transition hover:bg-brand-700"
+          >
+            Account aanmaken
+          </button>
+          <p class="text-center text-xs text-slate-400">
+            Door te registreren ga je akkoord met onze <a href="/privacy-policy/" class="text-brand-600 hover:underline">privacyverklaring</a>.
+          </p>
+        </form>
+        <p class="mt-6 text-center text-sm text-slate-500">
+          Al een account?
+          <button data-tab="login" class="ml-1 font-semibold text-brand-600 hover:underline">Inloggen</button>
+        </p>
+      </div>
+    </div>
+  </Container>
+</BaseLayout>
+
+<script>
+  const loginPanel = document.getElementById("panel-login")!;
+  const registerPanel = document.getElementById("panel-register")!;
+  const tabLogin = document.getElementById("tab-login")!;
+  const tabRegister = document.getElementById("tab-register")!;
+
+  function activate(tab: string) {
+    if (tab === "login") {
+      loginPanel.classList.remove("hidden");
+      registerPanel.classList.add("hidden");
+      tabLogin.classList.add("bg-white", "text-slate-900", "shadow-sm");
+      tabLogin.classList.remove("text-slate-500");
+      tabRegister.classList.remove("bg-white", "text-slate-900", "shadow-sm");
+      tabRegister.classList.add("text-slate-500");
+    } else {
+      registerPanel.classList.remove("hidden");
+      loginPanel.classList.add("hidden");
+      tabRegister.classList.add("bg-white", "text-slate-900", "shadow-sm");
+      tabRegister.classList.remove("text-slate-500");
+      tabLogin.classList.remove("bg-white", "text-slate-900", "shadow-sm");
+      tabLogin.classList.add("text-slate-500");
+    }
+  }
+
+  document.querySelectorAll("[data-tab]").forEach((el) => {
+    el.addEventListener("click", () => activate((el as HTMLElement).dataset.tab!));
+  });
+</script>

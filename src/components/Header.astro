@@ -29,13 +29,19 @@ const isActive = (href: string) => href === "/" ? path === "/" : path.startsWith
       ))}
     </nav>
 
-    <button
-      data-menu-toggle
-      class="inline-flex items-center justify-center rounded-lg p-2 text-slate-600 lg:hidden"
-      aria-label="Menu openen" aria-expanded="false"
-    >
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
-    </button>
+    <div class="flex items-center gap-2">
+      <a href="/mijn-account/" class="hidden items-center gap-1.5 rounded-lg border border-slate-200 px-3.5 py-1.5 text-sm font-medium text-slate-700 transition hover:border-brand-500 hover:text-brand-700 lg:flex">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+        Mijn account
+      </a>
+      <button
+        data-menu-toggle
+        class="inline-flex items-center justify-center rounded-lg p-2 text-slate-600 lg:hidden"
+        aria-label="Menu openen" aria-expanded="false"
+      >
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
   </Container>
 
   <div data-mobile-menu class="hidden border-t border-slate-100 bg-white lg:hidden">
@@ -49,6 +55,9 @@ const isActive = (href: string) => href === "/" ? path === "/" : path.startsWith
           ]}
         >{item.label}</a>
       ))}
+      <a href="/mijn-account/" class="mt-1 rounded-lg px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-50">
+        Mijn account
+      </a>
     </Container>
   </div>
 </header>

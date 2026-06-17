@@ -8,6 +8,7 @@ export const SITE = {
   locale: "nl_NL",
   nav: [
     { label: "Theorie leren", href: "/" },
+    { label: "Video Cursus", href: "/video-cursus/" },
     { label: "Motor theorie", href: "/motor-theorie/" },
     { label: "Alle verkeersborden", href: "/alle-verkeersborden/" },
     { label: "Oefenquiz", href: "/verkeersborden-oefenen/" },
