@@ -26,10 +26,12 @@ const blog = defineCollection({
       // Payload/AstroPayload kan de afbeelding als `heroImage` publiceren (string-url
       // of een media-object met `url`). We normaliseren naar `featuredImage`.
       heroImage: z.union([z.string(), z.object({ url: z.string().optional(), alt: z.string().optional() }).passthrough()]).optional(),
+      // Payload CMS schrijft custom frontmatter-velden via het Extra-veld als geneste key.
+      extra: z.object({ featuredImage: z.string().optional(), featuredImageAlt: z.string().optional() }).passthrough().optional(),
       homepageSafe: z.boolean().default(true),
-      draft: z.boolean().default(false),
+      draft: z.union([z.boolean(), z.string()]).transform((v) => v === true || v === "true").default(false),
     })
-    // Normalize Payload (pubDate/description/heroImage) and legacy (date/excerpt) into canonical fields
+    // Normalize Payload (pubDate/description/heroImage/extra) and legacy (date/excerpt) into canonical fields
     .transform((d) => ({
       ...d,
       date: d.date ?? d.pubDate ?? new Date(),
@@ -37,8 +39,10 @@ const blog = defineCollection({
       description: d.description ?? d.metaDescription ?? d.excerpt ?? "",
       featuredImage:
         d.featuredImage ??
+        d.extra?.featuredImage ??
         (typeof d.heroImage === "string" ? d.heroImage : d.heroImage?.url) ??
         undefined,
+      featuredImageAlt: d.featuredImageAlt ?? d.extra?.featuredImageAlt,
     })),
 });
 
