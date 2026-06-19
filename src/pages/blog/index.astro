@@ -2,44 +2,51 @@
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Container from "@components/Container.astro";
 import BlogPostCard from "@components/BlogPostCard.astro";
-import { getHomepagePosts, displayTitle, displayDescription } from "@lib/posts";
+import { getHomepagePosts, displayTitle, displayDescription, formatDate } from "@lib/posts";
+import { SITE } from "@lib/site";
 
 const posts = await getHomepagePosts();
-const [lead, ...rest] = posts;
-const leadTitle = lead ? displayTitle(lead) : "";
-const leadDesc = lead ? displayDescription(lead) : "";
+const [hero, ...rest] = posts;
+const heroTitle = hero ? displayTitle(hero) : "";
+const heroDesc = hero ? displayDescription(hero) : "";
 ---
+<!-- Layout: gestapeld hero + gemengd 2+3 koloms grid -->
 <BaseLayout
-  title="Blog — tips & info over je theorie-examen | Autotheorie.nl"
+  title={`Blog — autotheorie tips | ${SITE.name}`}
   description="Artikelen en tips over het CBR theorie-examen, rijles, verkeersregels en alles rondom je rijbewijs."
 >
-  <section class="bg-[linear-gradient(180deg,var(--color-brand-50)_0%,#fff_60%)]">
-    <Container class="py-(--spacing-section)">
-      <h1 class="text-4xl font-extrabold tracking-tight text-slate-900">Blog</h1>
-      <p class="mt-3 max-w-2xl text-lg text-slate-600">Tips en informatie over je theorie-examen, rijles en alles rondom je rijbewijs.</p>
+  <section class="bg-[linear-gradient(160deg,var(--color-brand-900)_0%,var(--color-brand-700)_100%)] py-(--spacing-section)">
+    <Container class="max-w-3xl text-center">
+      <h1 class="text-5xl font-extrabold tracking-tight text-white">Autotheorie Blog</h1>
+      <p class="mt-4 text-lg text-brand-100">Praktische tips, uitleg en nieuws om jou te helpen slagen.</p>
     </Container>
   </section>
 
-  <Container class="pb-(--spacing-section)">
-    {lead && (
-      <a href={`/${lead.id}/`} class="group mb-10 grid overflow-hidden rounded-2xl border border-slate-200 bg-white md:grid-cols-2">
-        {lead.data.featuredImage ? (
-          <img src={lead.data.featuredImage} alt={lead.data.featuredImageAlt || leadTitle}
-               width="800" height="450" loading="eager" fetchpriority="high" decoding="sync"
-               class="aspect-video w-full object-cover" />
+  <Container class="py-(--spacing-section)">
+    <!-- Hero artikel: groot bovenaan -->
+    {hero && (
+      <a href={`/${hero.id}/`} class="group mb-12 flex flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm hover:shadow-lg transition">
+        {hero.data.featuredImage ? (
+          <img src={hero.data.featuredImage} alt={heroTitle}
+               width="1200" height="420" loading="eager" fetchpriority="high"
+               class="h-64 w-full object-cover sm:h-80 transition duration-500 group-hover:brightness-95" />
         ) : (
-          <div class="relative flex aspect-video w-full items-center justify-center bg-gradient-to-br from-brand-600 to-brand-400">
-            <span class="font-display text-3xl font-extrabold tracking-tight text-white/90">Auto<span class="text-white">theorie</span><span class="text-brand-200">.nl</span></span>
-            <span class="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(255,255,255,0.18),transparent_60%)]"></span>
+          <div class="h-64 w-full bg-gradient-to-r from-brand-700 to-brand-500 sm:h-80 flex items-center justify-center">
+            <span class="text-4xl font-extrabold text-white/20 tracking-widest">BLOG</span>
           </div>
         )}
-        <div class="flex flex-col justify-center p-7">
-          <span class="text-xs font-semibold uppercase tracking-wide text-brand-700">Uitgelicht</span>
-          <h2 class="mt-2 text-2xl font-extrabold text-slate-900 group-hover:text-brand-700">{leadTitle}</h2>
-          {leadDesc && <p class="mt-3 line-clamp-3 text-slate-600">{leadDesc}</p>}
+        <div class="p-7">
+          <div class="flex items-center gap-3 mb-2">
+            <span class="text-xs font-bold uppercase tracking-widest text-brand-600">Meest recent</span>
+            <span class="text-xs text-slate-400">{formatDate(hero.data.date)}</span>
+          </div>
+          <h2 class="text-2xl font-extrabold text-slate-900 group-hover:text-brand-700 sm:text-3xl">{heroTitle}</h2>
+          {heroDesc && <p class="mt-2 max-w-3xl text-slate-600 line-clamp-2">{heroDesc}</p>}
         </div>
       </a>
     )}
+
+    <!-- Overige artikelen: 2-koloms op tablet, 3 op desktop -->
     <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {rest.map((p) => <BlogPostCard post={p} />)}
     </div>
